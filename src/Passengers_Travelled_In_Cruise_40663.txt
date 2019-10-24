@@ -1,0 +1,3132 @@
+Passenger Number         : 2534426
+Passenger Name           : Adeline Santon
+Home Address             : 942 Cambridge Junction
+Nationality              : France
+Date of Birth            : 03/05/1962
+Joining Fees ($)         : 963.0
+Money Spent on Cruise($) : 800.0
+Total Spent on Cruise($) : 1763.0
+
+Passenger Number         : 6398854
+Passenger Name           : Miquela Impett
+Home Address             : 3762 Del Sol Lane
+Nationality              : Saint Vincent and the Grenadines
+Date of Birth            : 16/01/1979
+Joining Fees ($)         : 875.0
+Money Spent on Cruise($) : 800.0
+Total Spent on Cruise($) : 1675.0
+
+Passenger Number         : 6764609
+Passenger Name           : Laural Souch
+Home Address             : 00888 Corben Plaza
+Nationality              : China
+Date of Birth            : 25/03/1971
+Joining Fees ($)         : 971.0
+Money Spent on Cruise($) : 800.0
+Total Spent on Cruise($) : 1771.0
+
+Passenger Number         : 6518813
+Passenger Name           : Carla Willmetts
+Home Address             : 90568 Shasta Road
+Nationality              : Peru
+Date of Birth            : 23/04/1988
+Joining Fees ($)         : 965.0
+Money Spent on Cruise($) : 801.0
+Total Spent on Cruise($) : 1766.0
+
+Passenger Number         : 9458669
+Passenger Name           : Rivalee Steed
+Home Address             : 34544 Little Fleur Junction
+Nationality              : Brazil
+Date of Birth            : 16/06/1991
+Joining Fees ($)         : 963.0
+Money Spent on Cruise($) : 802.0
+Total Spent on Cruise($) : 1765.0
+
+Passenger Number         : 3619359
+Passenger Name           : Devora Fishburn
+Home Address             : 09 Blue Bill Park Alley
+Nationality              : China
+Date of Birth            : 18/11/2001
+Joining Fees ($)         : 844.0
+Money Spent on Cruise($) : 803.0
+Total Spent on Cruise($) : 1647.0
+
+Passenger Number         : 2806244
+Passenger Name           : Penrod Stode
+Home Address             : 9383 Rusk Parkway
+Nationality              : Indonesia
+Date of Birth            : 07/12/2008
+Joining Fees ($)         : 833.0
+Money Spent on Cruise($) : 803.0
+Total Spent on Cruise($) : 1636.0
+
+Passenger Number         : 2938518
+Passenger Name           : Adella Ternouth
+Home Address             : 731 Larry Point
+Nationality              : United States
+Date of Birth            : 01/08/1989
+Joining Fees ($)         : 839.0
+Money Spent on Cruise($) : 804.0
+Total Spent on Cruise($) : 1643.0
+
+Passenger Number         : 3026098
+Passenger Name           : Abraham Leber
+Home Address             : 66776 Cherokee Drive
+Nationality              : Uganda
+Date of Birth            : 13/03/1999
+Joining Fees ($)         : 800.0
+Money Spent on Cruise($) : 804.0
+Total Spent on Cruise($) : 1604.0
+
+Passenger Number         : 9295044
+Passenger Name           : Banky Antognozzii
+Home Address             : 3 Ilene Hill
+Nationality              : Netherlands
+Date of Birth            : 26/10/1962
+Joining Fees ($)         : 967.0
+Money Spent on Cruise($) : 804.0
+Total Spent on Cruise($) : 1771.0
+
+Passenger Number         : 9742771
+Passenger Name           : Persis Bertlin
+Home Address             : 71 Kennedy Parkway
+Nationality              : Ecuador
+Date of Birth            : 15/07/2003
+Joining Fees ($)         : 975.0
+Money Spent on Cruise($) : 804.0
+Total Spent on Cruise($) : 1779.0
+
+Passenger Number         : 7470099
+Passenger Name           : Harley Strelitzer
+Home Address             : 08873 Melrose Road
+Nationality              : Russia
+Date of Birth            : 25/02/1977
+Joining Fees ($)         : 959.0
+Money Spent on Cruise($) : 805.0
+Total Spent on Cruise($) : 1764.0
+
+Passenger Number         : 9479038
+Passenger Name           : Britta Setterington
+Home Address             : 319 Hazelcrest Terrace
+Nationality              : Serbia
+Date of Birth            : 30/04/1980
+Joining Fees ($)         : 908.0
+Money Spent on Cruise($) : 805.0
+Total Spent on Cruise($) : 1713.0
+
+Passenger Number         : 4142617
+Passenger Name           : Merla Ganford
+Home Address             : 9550 Orin Drive
+Nationality              : Indonesia
+Date of Birth            : 29/12/1994
+Joining Fees ($)         : 875.0
+Money Spent on Cruise($) : 805.0
+Total Spent on Cruise($) : 1680.0
+
+Passenger Number         : 3493915
+Passenger Name           : Nanon Bullocke
+Home Address             : 6 Delaware Center
+Nationality              : Russia
+Date of Birth            : 17/12/1972
+Joining Fees ($)         : 911.0
+Money Spent on Cruise($) : 807.0
+Total Spent on Cruise($) : 1718.0
+
+Passenger Number         : 3155821
+Passenger Name           : Stavro Davion
+Home Address             : 34931 Blue Bill Park Trail
+Nationality              : Germany
+Date of Birth            : 03/11/1965
+Joining Fees ($)         : 914.0
+Money Spent on Cruise($) : 807.0
+Total Spent on Cruise($) : 1721.0
+
+Passenger Number         : 1967813
+Passenger Name           : Ebeneser Prati
+Home Address             : 606 Raven Parkway
+Nationality              : China
+Date of Birth            : 20/03/1979
+Joining Fees ($)         : 827.0
+Money Spent on Cruise($) : 807.0
+Total Spent on Cruise($) : 1634.0
+
+Passenger Number         : 3601857
+Passenger Name           : Martynne Krabbe
+Home Address             : 2 Scott Pass
+Nationality              : Portugal
+Date of Birth            : 20/01/2007
+Joining Fees ($)         : 810.0
+Money Spent on Cruise($) : 808.0
+Total Spent on Cruise($) : 1618.0
+
+Passenger Number         : 2238163
+Passenger Name           : Elyssa Mapston
+Home Address             : 22 Monica Avenue
+Nationality              : China
+Date of Birth            : 04/02/2009
+Joining Fees ($)         : 993.0
+Money Spent on Cruise($) : 808.0
+Total Spent on Cruise($) : 1801.0
+
+Passenger Number         : 7045550
+Passenger Name           : Ulla Hovee
+Home Address             : 79751 Melby Center
+Nationality              : Philippines
+Date of Birth            : 05/06/1993
+Joining Fees ($)         : 952.0
+Money Spent on Cruise($) : 809.0
+Total Spent on Cruise($) : 1761.0
+
+Passenger Number         : 2679558
+Passenger Name           : Lacy Tweede
+Home Address             : 1 Artisan Trail
+Nationality              : Brazil
+Date of Birth            : 23/09/2006
+Joining Fees ($)         : 971.0
+Money Spent on Cruise($) : 810.0
+Total Spent on Cruise($) : 1781.0
+
+Passenger Number         : 3354742
+Passenger Name           : Donelle Tyt
+Home Address             : 214 Pierstorff Drive
+Nationality              : Portugal
+Date of Birth            : 29/10/2003
+Joining Fees ($)         : 999.0
+Money Spent on Cruise($) : 811.0
+Total Spent on Cruise($) : 1810.0
+
+Passenger Number         : 2488302
+Passenger Name           : Barrett Sunshine
+Home Address             : 73 Crest Line Point
+Nationality              : Russia
+Date of Birth            : 07/08/1968
+Joining Fees ($)         : 992.0
+Money Spent on Cruise($) : 813.0
+Total Spent on Cruise($) : 1805.0
+
+Passenger Number         : 1892585
+Passenger Name           : Berny Huc
+Home Address             : 7041 Hoepker Terrace
+Nationality              : Sweden
+Date of Birth            : 12/02/1984
+Joining Fees ($)         : 959.0
+Money Spent on Cruise($) : 814.0
+Total Spent on Cruise($) : 1773.0
+
+Passenger Number         : 1992725
+Passenger Name           : Dolf Wyche
+Home Address             : 0713 Messerschmidt Hill
+Nationality              : Poland
+Date of Birth            : 07/04/1977
+Joining Fees ($)         : 815.0
+Money Spent on Cruise($) : 814.0
+Total Spent on Cruise($) : 1629.0
+
+Passenger Number         : 2686790
+Passenger Name           : Catlee Guerrazzi
+Home Address             : 3951 Leroy Alley
+Nationality              : France
+Date of Birth            : 26/11/1962
+Joining Fees ($)         : 852.0
+Money Spent on Cruise($) : 814.0
+Total Spent on Cruise($) : 1666.0
+
+Passenger Number         : 1783629
+Passenger Name           : Fraser Guilayn
+Home Address             : 6 Crownhardt Lane
+Nationality              : Portugal
+Date of Birth            : 13/12/2007
+Joining Fees ($)         : 881.0
+Money Spent on Cruise($) : 814.0
+Total Spent on Cruise($) : 1695.0
+
+Passenger Number         : 9027360
+Passenger Name           : Millicent Bruckental
+Home Address             : 53968 Burrows Court
+Nationality              : China
+Date of Birth            : 27/05/1962
+Joining Fees ($)         : 820.0
+Money Spent on Cruise($) : 814.0
+Total Spent on Cruise($) : 1634.0
+
+Passenger Number         : 5065254
+Passenger Name           : Sheilakathryn Bediss
+Home Address             : 39 Carioca Trail
+Nationality              : Slovenia
+Date of Birth            : 11/08/1994
+Joining Fees ($)         : 833.0
+Money Spent on Cruise($) : 815.0
+Total Spent on Cruise($) : 1648.0
+
+Passenger Number         : 2999091
+Passenger Name           : Bessy Maddison
+Home Address             : 76785 Weeping Birch Way
+Nationality              : China
+Date of Birth            : 30/07/1984
+Joining Fees ($)         : 991.0
+Money Spent on Cruise($) : 815.0
+Total Spent on Cruise($) : 1806.0
+
+Passenger Number         : 1163895
+Passenger Name           : Marlon Beininck
+Home Address             : 95146 Johnson Pass
+Nationality              : United States
+Date of Birth            : 25/11/1991
+Joining Fees ($)         : 975.0
+Money Spent on Cruise($) : 815.0
+Total Spent on Cruise($) : 1790.0
+
+Passenger Number         : 9332368
+Passenger Name           : Blinnie Hobgen
+Home Address             : 21 Ruskin Street
+Nationality              : Argentina
+Date of Birth            : 14/04/2005
+Joining Fees ($)         : 818.0
+Money Spent on Cruise($) : 816.0
+Total Spent on Cruise($) : 1634.0
+
+Passenger Number         : 6556273
+Passenger Name           : Alexia Francescuzzi
+Home Address             : 2 Annamark Road
+Nationality              : Ukraine
+Date of Birth            : 04/10/1977
+Joining Fees ($)         : 821.0
+Money Spent on Cruise($) : 816.0
+Total Spent on Cruise($) : 1637.0
+
+Passenger Number         : 9546877
+Passenger Name           : Legra Boots
+Home Address             : 18 Annamark Trail
+Nationality              : Japan
+Date of Birth            : 13/06/1965
+Joining Fees ($)         : 827.0
+Money Spent on Cruise($) : 817.0
+Total Spent on Cruise($) : 1644.0
+
+Passenger Number         : 6489457
+Passenger Name           : Antonin Ramlot
+Home Address             : 16477 Linden Junction
+Nationality              : Vietnam
+Date of Birth            : 23/06/2000
+Joining Fees ($)         : 801.0
+Money Spent on Cruise($) : 817.0
+Total Spent on Cruise($) : 1618.0
+
+Passenger Number         : 9100465
+Passenger Name           : Chaim Gunton
+Home Address             : 6182 Ilene Lane
+Nationality              : Vietnam
+Date of Birth            : 22/12/1962
+Joining Fees ($)         : 803.0
+Money Spent on Cruise($) : 817.0
+Total Spent on Cruise($) : 1620.0
+
+Passenger Number         : 4442926
+Passenger Name           : Morgun Mayte
+Home Address             : 6220 Monument Crossing
+Nationality              : Saudi Arabia
+Date of Birth            : 29/09/2000
+Joining Fees ($)         : 865.0
+Money Spent on Cruise($) : 817.0
+Total Spent on Cruise($) : 1682.0
+
+Passenger Number         : 5178903
+Passenger Name           : Egan Trengrove
+Home Address             : 7869 Pawling Road
+Nationality              : Syria
+Date of Birth            : 28/06/2002
+Joining Fees ($)         : 879.0
+Money Spent on Cruise($) : 817.0
+Total Spent on Cruise($) : 1696.0
+
+Passenger Number         : 5215773
+Passenger Name           : Susie Bellow
+Home Address             : 1 Mallard Point
+Nationality              : China
+Date of Birth            : 22/08/1972
+Joining Fees ($)         : 887.0
+Money Spent on Cruise($) : 817.0
+Total Spent on Cruise($) : 1704.0
+
+Passenger Number         : 5043530
+Passenger Name           : Lionello Tartt
+Home Address             : 45 Blaine Point
+Nationality              : China
+Date of Birth            : 15/05/2001
+Joining Fees ($)         : 844.0
+Money Spent on Cruise($) : 817.0
+Total Spent on Cruise($) : 1661.0
+
+Passenger Number         : 3835394
+Passenger Name           : Yovonnda Deverock
+Home Address             : 77 Green Ridge Parkway
+Nationality              : Brazil
+Date of Birth            : 26/05/2007
+Joining Fees ($)         : 949.0
+Money Spent on Cruise($) : 818.0
+Total Spent on Cruise($) : 1767.0
+
+Passenger Number         : 4467342
+Passenger Name           : Janeen Bettis
+Home Address             : 2808 6th Terrace
+Nationality              : Albania
+Date of Birth            : 20/08/1976
+Joining Fees ($)         : 874.0
+Money Spent on Cruise($) : 818.0
+Total Spent on Cruise($) : 1692.0
+
+Passenger Number         : 3731963
+Passenger Name           : Sibelle Janos
+Home Address             : 48 Farmco Road
+Nationality              : United States
+Date of Birth            : 29/07/1961
+Joining Fees ($)         : 901.0
+Money Spent on Cruise($) : 820.0
+Total Spent on Cruise($) : 1721.0
+
+Passenger Number         : 3112831
+Passenger Name           : Vite Commuzzo
+Home Address             : 8 Ronald Regan Point
+Nationality              : Brazil
+Date of Birth            : 01/09/1984
+Joining Fees ($)         : 941.0
+Money Spent on Cruise($) : 821.0
+Total Spent on Cruise($) : 1762.0
+
+Passenger Number         : 6648914
+Passenger Name           : Dennis De Beauchamp
+Home Address             : 511 Center Alley
+Nationality              : Jamaica
+Date of Birth            : 23/11/1992
+Joining Fees ($)         : 827.0
+Money Spent on Cruise($) : 822.0
+Total Spent on Cruise($) : 1649.0
+
+Passenger Number         : 9014616
+Passenger Name           : Lana Sydenham
+Home Address             : 760 Cascade Place
+Nationality              : Mozambique
+Date of Birth            : 20/11/2006
+Joining Fees ($)         : 888.0
+Money Spent on Cruise($) : 823.0
+Total Spent on Cruise($) : 1711.0
+
+Passenger Number         : 2096118
+Passenger Name           : Wash Betjes
+Home Address             : 187 Dayton Court
+Nationality              : China
+Date of Birth            : 09/12/2005
+Joining Fees ($)         : 868.0
+Money Spent on Cruise($) : 823.0
+Total Spent on Cruise($) : 1691.0
+
+Passenger Number         : 9482214
+Passenger Name           : Orlan Hattoe
+Home Address             : 82496 Crest Line Hill
+Nationality              : Russia
+Date of Birth            : 28/08/2001
+Joining Fees ($)         : 887.0
+Money Spent on Cruise($) : 823.0
+Total Spent on Cruise($) : 1710.0
+
+Passenger Number         : 7271013
+Passenger Name           : Harlin Nornable
+Home Address             : 12823 North Place
+Nationality              : China
+Date of Birth            : 02/07/1968
+Joining Fees ($)         : 845.0
+Money Spent on Cruise($) : 824.0
+Total Spent on Cruise($) : 1669.0
+
+Passenger Number         : 4600537
+Passenger Name           : Orel Volett
+Home Address             : 86 Westerfield Lane
+Nationality              : Poland
+Date of Birth            : 07/08/1966
+Joining Fees ($)         : 927.0
+Money Spent on Cruise($) : 824.0
+Total Spent on Cruise($) : 1751.0
+
+Passenger Number         : 6827292
+Passenger Name           : Maximilien Branthwaite
+Home Address             : 09 Kedzie Place
+Nationality              : Bosnia and Herzegovina
+Date of Birth            : 09/02/1985
+Joining Fees ($)         : 954.0
+Money Spent on Cruise($) : 825.0
+Total Spent on Cruise($) : 1779.0
+
+Passenger Number         : 5530825
+Passenger Name           : Merrie Overpool
+Home Address             : 5 Aberg Road
+Nationality              : Russia
+Date of Birth            : 12/03/1993
+Joining Fees ($)         : 862.0
+Money Spent on Cruise($) : 826.0
+Total Spent on Cruise($) : 1688.0
+
+Passenger Number         : 1378086
+Passenger Name           : Sondra Peinke
+Home Address             : 25 Kensington Terrace
+Nationality              : China
+Date of Birth            : 30/12/2008
+Joining Fees ($)         : 901.0
+Money Spent on Cruise($) : 826.0
+Total Spent on Cruise($) : 1727.0
+
+Passenger Number         : 3563342
+Passenger Name           : Luise Dutton
+Home Address             : 546 Mcbride Court
+Nationality              : East Timor
+Date of Birth            : 25/03/1988
+Joining Fees ($)         : 947.0
+Money Spent on Cruise($) : 828.0
+Total Spent on Cruise($) : 1775.0
+
+Passenger Number         : 3182142
+Passenger Name           : Laurens Lisimore
+Home Address             : 1612 Rieder Hill
+Nationality              : Tajikistan
+Date of Birth            : 04/08/1992
+Joining Fees ($)         : 972.0
+Money Spent on Cruise($) : 829.0
+Total Spent on Cruise($) : 1801.0
+
+Passenger Number         : 6547058
+Passenger Name           : Nero Coulton
+Home Address             : 426 Barby Road
+Nationality              : Russia
+Date of Birth            : 14/06/1961
+Joining Fees ($)         : 880.0
+Money Spent on Cruise($) : 829.0
+Total Spent on Cruise($) : 1709.0
+
+Passenger Number         : 3531735
+Passenger Name           : Ransell MacIlurick
+Home Address             : 243 John Wall Terrace
+Nationality              : Canada
+Date of Birth            : 20/06/1976
+Joining Fees ($)         : 892.0
+Money Spent on Cruise($) : 832.0
+Total Spent on Cruise($) : 1724.0
+
+Passenger Number         : 6939990
+Passenger Name           : Nestor Jahn
+Home Address             : 329 Novick Street
+Nationality              : China
+Date of Birth            : 14/07/1996
+Joining Fees ($)         : 823.0
+Money Spent on Cruise($) : 832.0
+Total Spent on Cruise($) : 1655.0
+
+Passenger Number         : 2925982
+Passenger Name           : Wendye Fonte
+Home Address             : 86 Transport Avenue
+Nationality              : Belarus
+Date of Birth            : 05/10/2003
+Joining Fees ($)         : 986.0
+Money Spent on Cruise($) : 832.0
+Total Spent on Cruise($) : 1818.0
+
+Passenger Number         : 7364989
+Passenger Name           : Reina Draysay
+Home Address             : 85 Acker Alley
+Nationality              : Philippines
+Date of Birth            : 07/07/1983
+Joining Fees ($)         : 893.0
+Money Spent on Cruise($) : 833.0
+Total Spent on Cruise($) : 1726.0
+
+Passenger Number         : 1017320
+Passenger Name           : Mareah Tetther
+Home Address             : 2 6th Park
+Nationality              : Italy
+Date of Birth            : 11/07/1991
+Joining Fees ($)         : 825.0
+Money Spent on Cruise($) : 834.0
+Total Spent on Cruise($) : 1659.0
+
+Passenger Number         : 9408618
+Passenger Name           : Cristiano Matresse
+Home Address             : 7237 Dunning Center
+Nationality              : China
+Date of Birth            : 22/03/1984
+Joining Fees ($)         : 838.0
+Money Spent on Cruise($) : 834.0
+Total Spent on Cruise($) : 1672.0
+
+Passenger Number         : 6666182
+Passenger Name           : Collin Abrahart
+Home Address             : 810 Mesta Street
+Nationality              : South Africa
+Date of Birth            : 12/02/1978
+Joining Fees ($)         : 862.0
+Money Spent on Cruise($) : 834.0
+Total Spent on Cruise($) : 1696.0
+
+Passenger Number         : 9408033
+Passenger Name           : Drusilla Izen
+Home Address             : 09 Holmberg Court
+Nationality              : Guatemala
+Date of Birth            : 14/12/1970
+Joining Fees ($)         : 961.0
+Money Spent on Cruise($) : 835.0
+Total Spent on Cruise($) : 1796.0
+
+Passenger Number         : 2917939
+Passenger Name           : Marylou Uden
+Home Address             : 1 Talmadge Point
+Nationality              : China
+Date of Birth            : 08/06/1987
+Joining Fees ($)         : 954.0
+Money Spent on Cruise($) : 835.0
+Total Spent on Cruise($) : 1789.0
+
+Passenger Number         : 4797511
+Passenger Name           : Kassie Tipler
+Home Address             : 922 Commercial Lane
+Nationality              : Greece
+Date of Birth            : 08/11/1996
+Joining Fees ($)         : 965.0
+Money Spent on Cruise($) : 835.0
+Total Spent on Cruise($) : 1800.0
+
+Passenger Number         : 2646974
+Passenger Name           : Arlen Jirick
+Home Address             : 556 Columbus Terrace
+Nationality              : Russia
+Date of Birth            : 26/02/2003
+Joining Fees ($)         : 866.0
+Money Spent on Cruise($) : 836.0
+Total Spent on Cruise($) : 1702.0
+
+Passenger Number         : 5337596
+Passenger Name           : Lynea Munby
+Home Address             : 24 Crest Line Park
+Nationality              : Czech Republic
+Date of Birth            : 19/11/2001
+Joining Fees ($)         : 872.0
+Money Spent on Cruise($) : 836.0
+Total Spent on Cruise($) : 1708.0
+
+Passenger Number         : 9211199
+Passenger Name           : Melicent Benedek
+Home Address             : 59736 Trailsway Place
+Nationality              : Mauritania
+Date of Birth            : 27/03/1969
+Joining Fees ($)         : 868.0
+Money Spent on Cruise($) : 836.0
+Total Spent on Cruise($) : 1704.0
+
+Passenger Number         : 2531306
+Passenger Name           : Philip Mallabone
+Home Address             : 3 Schurz Trail
+Nationality              : Indonesia
+Date of Birth            : 16/12/2005
+Joining Fees ($)         : 808.0
+Money Spent on Cruise($) : 837.0
+Total Spent on Cruise($) : 1645.0
+
+Passenger Number         : 3586073
+Passenger Name           : Archaimbaud Burgum
+Home Address             : 9 Fulton Center
+Nationality              : Bulgaria
+Date of Birth            : 13/11/1977
+Joining Fees ($)         : 967.0
+Money Spent on Cruise($) : 837.0
+Total Spent on Cruise($) : 1804.0
+
+Passenger Number         : 9231486
+Passenger Name           : Janifer Canape
+Home Address             : 1 Hovde Park
+Nationality              : Russia
+Date of Birth            : 03/11/1983
+Joining Fees ($)         : 812.0
+Money Spent on Cruise($) : 837.0
+Total Spent on Cruise($) : 1649.0
+
+Passenger Number         : 9730746
+Passenger Name           : Solomon Nani
+Home Address             : 40297 Golf View Center
+Nationality              : Philippines
+Date of Birth            : 03/12/2008
+Joining Fees ($)         : 930.0
+Money Spent on Cruise($) : 838.0
+Total Spent on Cruise($) : 1768.0
+
+Passenger Number         : 1560316
+Passenger Name           : Mortie Urpeth
+Home Address             : 57 Huxley Avenue
+Nationality              : Russia
+Date of Birth            : 28/08/1969
+Joining Fees ($)         : 824.0
+Money Spent on Cruise($) : 838.0
+Total Spent on Cruise($) : 1662.0
+
+Passenger Number         : 3379671
+Passenger Name           : Marylou Jeffrey
+Home Address             : 42106 Express Parkway
+Nationality              : Russia
+Date of Birth            : 12/05/2001
+Joining Fees ($)         : 897.0
+Money Spent on Cruise($) : 838.0
+Total Spent on Cruise($) : 1735.0
+
+Passenger Number         : 3777927
+Passenger Name           : Elysia Droghan
+Home Address             : 3 Mandrake Parkway
+Nationality              : China
+Date of Birth            : 03/09/1993
+Joining Fees ($)         : 836.0
+Money Spent on Cruise($) : 839.0
+Total Spent on Cruise($) : 1675.0
+
+Passenger Number         : 1857986
+Passenger Name           : Ken Skelton
+Home Address             : 243 Homewood Road
+Nationality              : Poland
+Date of Birth            : 15/11/1998
+Joining Fees ($)         : 872.0
+Money Spent on Cruise($) : 839.0
+Total Spent on Cruise($) : 1711.0
+
+Passenger Number         : 4097427
+Passenger Name           : Zondra Bartleet
+Home Address             : 493 Fremont Park
+Nationality              : Indonesia
+Date of Birth            : 16/08/1984
+Joining Fees ($)         : 835.0
+Money Spent on Cruise($) : 839.0
+Total Spent on Cruise($) : 1674.0
+
+Passenger Number         : 6271896
+Passenger Name           : Deirdre Oxe
+Home Address             : 350 Chive Court
+Nationality              : South Africa
+Date of Birth            : 21/08/1963
+Joining Fees ($)         : 978.0
+Money Spent on Cruise($) : 840.0
+Total Spent on Cruise($) : 1818.0
+
+Passenger Number         : 9844145
+Passenger Name           : Laurens Perrygo
+Home Address             : 5325 Oak Court
+Nationality              : Peru
+Date of Birth            : 02/10/2001
+Joining Fees ($)         : 999.0
+Money Spent on Cruise($) : 840.0
+Total Spent on Cruise($) : 1839.0
+
+Passenger Number         : 6363334
+Passenger Name           : Janel Pohling
+Home Address             : 3 Fisk Park
+Nationality              : Guam
+Date of Birth            : 15/02/1993
+Joining Fees ($)         : 989.0
+Money Spent on Cruise($) : 841.0
+Total Spent on Cruise($) : 1830.0
+
+Passenger Number         : 9845223
+Passenger Name           : Fidel Cratchley
+Home Address             : 28371 Elka Place
+Nationality              : Honduras
+Date of Birth            : 29/12/1994
+Joining Fees ($)         : 957.0
+Money Spent on Cruise($) : 841.0
+Total Spent on Cruise($) : 1798.0
+
+Passenger Number         : 3144965
+Passenger Name           : Maddalena Marousek
+Home Address             : 8 Fairfield Plaza
+Nationality              : Philippines
+Date of Birth            : 23/11/1972
+Joining Fees ($)         : 870.0
+Money Spent on Cruise($) : 842.0
+Total Spent on Cruise($) : 1712.0
+
+Passenger Number         : 2152026
+Passenger Name           : Ibby Finker
+Home Address             : 0 Jay Street
+Nationality              : China
+Date of Birth            : 28/04/2006
+Joining Fees ($)         : 892.0
+Money Spent on Cruise($) : 842.0
+Total Spent on Cruise($) : 1734.0
+
+Passenger Number         : 7855603
+Passenger Name           : Brigitta Artois
+Home Address             : 30202 Macpherson Circle
+Nationality              : Guatemala
+Date of Birth            : 02/05/1966
+Joining Fees ($)         : 967.0
+Money Spent on Cruise($) : 843.0
+Total Spent on Cruise($) : 1810.0
+
+Passenger Number         : 4730496
+Passenger Name           : Sim Wafer
+Home Address             : 56663 Debs Hill
+Nationality              : Indonesia
+Date of Birth            : 12/11/1980
+Joining Fees ($)         : 933.0
+Money Spent on Cruise($) : 843.0
+Total Spent on Cruise($) : 1776.0
+
+Passenger Number         : 4256887
+Passenger Name           : Kermy Casarino
+Home Address             : 0 Thackeray Way
+Nationality              : Morocco
+Date of Birth            : 20/12/1990
+Joining Fees ($)         : 851.0
+Money Spent on Cruise($) : 844.0
+Total Spent on Cruise($) : 1695.0
+
+Passenger Number         : 4370666
+Passenger Name           : Robinson Care
+Home Address             : 09286 Del Mar Terrace
+Nationality              : Democratic Republic of the Congo
+Date of Birth            : 27/06/1987
+Joining Fees ($)         : 844.0
+Money Spent on Cruise($) : 845.0
+Total Spent on Cruise($) : 1689.0
+
+Passenger Number         : 7500681
+Passenger Name           : Bram Van der Spohr
+Home Address             : 085 Waywood Pass
+Nationality              : Poland
+Date of Birth            : 21/07/1994
+Joining Fees ($)         : 812.0
+Money Spent on Cruise($) : 845.0
+Total Spent on Cruise($) : 1657.0
+
+Passenger Number         : 7177000
+Passenger Name           : Eustacia Devitt
+Home Address             : 0 Norway Maple Hill
+Nationality              : Indonesia
+Date of Birth            : 22/08/1997
+Joining Fees ($)         : 833.0
+Money Spent on Cruise($) : 845.0
+Total Spent on Cruise($) : 1678.0
+
+Passenger Number         : 9446915
+Passenger Name           : Jorrie Houselee
+Home Address             : 82 Corscot Way
+Nationality              : Indonesia
+Date of Birth            : 14/08/1994
+Joining Fees ($)         : 993.0
+Money Spent on Cruise($) : 845.0
+Total Spent on Cruise($) : 1838.0
+
+Passenger Number         : 1473165
+Passenger Name           : Basia Yelden
+Home Address             : 40250 Express Crossing
+Nationality              : East Timor
+Date of Birth            : 24/04/1961
+Joining Fees ($)         : 984.0
+Money Spent on Cruise($) : 845.0
+Total Spent on Cruise($) : 1829.0
+
+Passenger Number         : 4658904
+Passenger Name           : Harrie Reeken
+Home Address             : 8048 Loftsgordon Center
+Nationality              : Russia
+Date of Birth            : 20/10/1989
+Joining Fees ($)         : 843.0
+Money Spent on Cruise($) : 846.0
+Total Spent on Cruise($) : 1689.0
+
+Passenger Number         : 7343158
+Passenger Name           : Miof mela Loram
+Home Address             : 5819 Cordelia Point
+Nationality              : Indonesia
+Date of Birth            : 24/08/2008
+Joining Fees ($)         : 864.0
+Money Spent on Cruise($) : 848.0
+Total Spent on Cruise($) : 1712.0
+
+Passenger Number         : 7447157
+Passenger Name           : Beverly Wiley
+Home Address             : 36 Eggendart Parkway
+Nationality              : Japan
+Date of Birth            : 20/10/1980
+Joining Fees ($)         : 950.0
+Money Spent on Cruise($) : 849.0
+Total Spent on Cruise($) : 1799.0
+
+Passenger Number         : 6643314
+Passenger Name           : Andra Dovinson
+Home Address             : 00776 Eagle Crest Lane
+Nationality              : Jordan
+Date of Birth            : 02/08/1983
+Joining Fees ($)         : 930.0
+Money Spent on Cruise($) : 849.0
+Total Spent on Cruise($) : 1779.0
+
+Passenger Number         : 5747605
+Passenger Name           : Jermain Colwell
+Home Address             : 553 Clyde Gallagher Terrace
+Nationality              : Ecuador
+Date of Birth            : 14/06/1966
+Joining Fees ($)         : 867.0
+Money Spent on Cruise($) : 849.0
+Total Spent on Cruise($) : 1716.0
+
+Passenger Number         : 7875301
+Passenger Name           : Meggie Bento
+Home Address             : 4685 Monica Plaza
+Nationality              : United States
+Date of Birth            : 17/06/2001
+Joining Fees ($)         : 827.0
+Money Spent on Cruise($) : 849.0
+Total Spent on Cruise($) : 1676.0
+
+Passenger Number         : 7150674
+Passenger Name           : Olivier Spiring
+Home Address             : 39 Buhler Road
+Nationality              : China
+Date of Birth            : 21/01/1979
+Joining Fees ($)         : 908.0
+Money Spent on Cruise($) : 849.0
+Total Spent on Cruise($) : 1757.0
+
+Passenger Number         : 2919510
+Passenger Name           : Wallace Dincke
+Home Address             : 45978 Harper Center
+Nationality              : Switzerland
+Date of Birth            : 08/08/1982
+Joining Fees ($)         : 879.0
+Money Spent on Cruise($) : 850.0
+Total Spent on Cruise($) : 1729.0
+
+Passenger Number         : 4834306
+Passenger Name           : Mamie Absolem
+Home Address             : 11 Holy Cross Pass
+Nationality              : Palestinian Territory
+Date of Birth            : 01/10/1983
+Joining Fees ($)         : 838.0
+Money Spent on Cruise($) : 850.0
+Total Spent on Cruise($) : 1688.0
+
+Passenger Number         : 3861340
+Passenger Name           : Vonny Charteris
+Home Address             : 91 Hermina Lane
+Nationality              : Kenya
+Date of Birth            : 20/02/1993
+Joining Fees ($)         : 833.0
+Money Spent on Cruise($) : 851.0
+Total Spent on Cruise($) : 1684.0
+
+Passenger Number         : 6222888
+Passenger Name           : Licha Morais
+Home Address             : 53 Monica Circle
+Nationality              : Argentina
+Date of Birth            : 14/10/1982
+Joining Fees ($)         : 988.0
+Money Spent on Cruise($) : 851.0
+Total Spent on Cruise($) : 1839.0
+
+Passenger Number         : 9532777
+Passenger Name           : Aurlie Phinnis
+Home Address             : 917 High Crossing Crossing
+Nationality              : Cuba
+Date of Birth            : 08/08/1968
+Joining Fees ($)         : 992.0
+Money Spent on Cruise($) : 851.0
+Total Spent on Cruise($) : 1843.0
+
+Passenger Number         : 3328321
+Passenger Name           : Karee Rolin
+Home Address             : 7 Service Center
+Nationality              : China
+Date of Birth            : 01/01/1967
+Joining Fees ($)         : 953.0
+Money Spent on Cruise($) : 852.0
+Total Spent on Cruise($) : 1805.0
+
+Passenger Number         : 8718612
+Passenger Name           : Shelden Cuppitt
+Home Address             : 52200 Parkside Terrace
+Nationality              : Indonesia
+Date of Birth            : 27/04/1997
+Joining Fees ($)         : 924.0
+Money Spent on Cruise($) : 853.0
+Total Spent on Cruise($) : 1777.0
+
+Passenger Number         : 4559888
+Passenger Name           : Morry Jentges
+Home Address             : 5 Melby Plaza
+Nationality              : Nigeria
+Date of Birth            : 02/11/1998
+Joining Fees ($)         : 902.0
+Money Spent on Cruise($) : 854.0
+Total Spent on Cruise($) : 1756.0
+
+Passenger Number         : 3496028
+Passenger Name           : Jobie Egle of Germany
+Home Address             : 69 Meadow Vale Drive
+Nationality              : Brazil
+Date of Birth            : 01/11/2008
+Joining Fees ($)         : 903.0
+Money Spent on Cruise($) : 854.0
+Total Spent on Cruise($) : 1757.0
+
+Passenger Number         : 2130638
+Passenger Name           : Piper Cadell
+Home Address             : 8 Dixon Hill
+Nationality              : China
+Date of Birth            : 16/04/2007
+Joining Fees ($)         : 936.0
+Money Spent on Cruise($) : 856.0
+Total Spent on Cruise($) : 1792.0
+
+Passenger Number         : 9596830
+Passenger Name           : Emmerich Wooster
+Home Address             : 44582 Sage Center
+Nationality              : Russia
+Date of Birth            : 01/05/1993
+Joining Fees ($)         : 832.0
+Money Spent on Cruise($) : 858.0
+Total Spent on Cruise($) : 1690.0
+
+Passenger Number         : 6764021
+Passenger Name           : Arlyn Stading
+Home Address             : 24675 Leroy Circle
+Nationality              : Botswana
+Date of Birth            : 04/11/2009
+Joining Fees ($)         : 840.0
+Money Spent on Cruise($) : 859.0
+Total Spent on Cruise($) : 1699.0
+
+Passenger Number         : 3963802
+Passenger Name           : Augustin Largan
+Home Address             : 171 Spohn Plaza
+Nationality              : Greece
+Date of Birth            : 28/09/1974
+Joining Fees ($)         : 965.0
+Money Spent on Cruise($) : 859.0
+Total Spent on Cruise($) : 1824.0
+
+Passenger Number         : 3572695
+Passenger Name           : Tobe Baudi
+Home Address             : 91371 Mosinee Center
+Nationality              : Russia
+Date of Birth            : 11/10/2006
+Joining Fees ($)         : 927.0
+Money Spent on Cruise($) : 860.0
+Total Spent on Cruise($) : 1787.0
+
+Passenger Number         : 6448227
+Passenger Name           : Lezley Belfield
+Home Address             : 15 Talmadge Court
+Nationality              : Nigeria
+Date of Birth            : 24/11/2009
+Joining Fees ($)         : 838.0
+Money Spent on Cruise($) : 860.0
+Total Spent on Cruise($) : 1698.0
+
+Passenger Number         : 5885924
+Passenger Name           : Bertina Haveline
+Home Address             : 7 Ludington Drive
+Nationality              : Costa Rica
+Date of Birth            : 27/05/1989
+Joining Fees ($)         : 933.0
+Money Spent on Cruise($) : 861.0
+Total Spent on Cruise($) : 1794.0
+
+Passenger Number         : 6589672
+Passenger Name           : Cher Bromidge
+Home Address             : 52 Hagan Pass
+Nationality              : Indonesia
+Date of Birth            : 08/06/1996
+Joining Fees ($)         : 947.0
+Money Spent on Cruise($) : 861.0
+Total Spent on Cruise($) : 1808.0
+
+Passenger Number         : 1744765
+Passenger Name           : Felipe Hawkswell
+Home Address             : 92201 Corscot Lane
+Nationality              : Czech Republic
+Date of Birth            : 23/11/2005
+Joining Fees ($)         : 807.0
+Money Spent on Cruise($) : 862.0
+Total Spent on Cruise($) : 1669.0
+
+Passenger Number         : 1723988
+Passenger Name           : Kissee Strickland
+Home Address             : 40 Vermont Trail
+Nationality              : Norway
+Date of Birth            : 22/05/1963
+Joining Fees ($)         : 832.0
+Money Spent on Cruise($) : 862.0
+Total Spent on Cruise($) : 1694.0
+
+Passenger Number         : 1212760
+Passenger Name           : Dierdre Minifie
+Home Address             : 2051 Ridgeway Junction
+Nationality              : United States
+Date of Birth            : 19/05/1982
+Joining Fees ($)         : 856.0
+Money Spent on Cruise($) : 862.0
+Total Spent on Cruise($) : 1718.0
+
+Passenger Number         : 1455903
+Passenger Name           : Alexei Edgecumbe
+Home Address             : 350 Troy Lane
+Nationality              : Russia
+Date of Birth            : 29/11/1977
+Joining Fees ($)         : 805.0
+Money Spent on Cruise($) : 862.0
+Total Spent on Cruise($) : 1667.0
+
+Passenger Number         : 2613250
+Passenger Name           : Franky Mozzi
+Home Address             : 4 Randy Street
+Nationality              : China
+Date of Birth            : 14/08/2003
+Joining Fees ($)         : 813.0
+Money Spent on Cruise($) : 862.0
+Total Spent on Cruise($) : 1675.0
+
+Passenger Number         : 3572894
+Passenger Name           : Gael Ronisch
+Home Address             : 6 Onsgard Alley
+Nationality              : Indonesia
+Date of Birth            : 25/09/1966
+Joining Fees ($)         : 994.0
+Money Spent on Cruise($) : 864.0
+Total Spent on Cruise($) : 1858.0
+
+Passenger Number         : 1869259
+Passenger Name           : Douglas Bendik
+Home Address             : 9282 Pierstorff Street
+Nationality              : China
+Date of Birth            : 05/05/2006
+Joining Fees ($)         : 819.0
+Money Spent on Cruise($) : 864.0
+Total Spent on Cruise($) : 1683.0
+
+Passenger Number         : 8039996
+Passenger Name           : Dalia D'Alessio
+Home Address             : 6261 Westport Drive
+Nationality              : Russia
+Date of Birth            : 03/04/1992
+Joining Fees ($)         : 923.0
+Money Spent on Cruise($) : 865.0
+Total Spent on Cruise($) : 1788.0
+
+Passenger Number         : 6644405
+Passenger Name           : Inga Carlino
+Home Address             : 4081 Tomscot Avenue
+Nationality              : Indonesia
+Date of Birth            : 30/09/1969
+Joining Fees ($)         : 855.0
+Money Spent on Cruise($) : 865.0
+Total Spent on Cruise($) : 1720.0
+
+Passenger Number         : 4784560
+Passenger Name           : Ivonne Gowler
+Home Address             : 55 Loftsgordon Circle
+Nationality              : France
+Date of Birth            : 26/11/1966
+Joining Fees ($)         : 815.0
+Money Spent on Cruise($) : 867.0
+Total Spent on Cruise($) : 1682.0
+
+Passenger Number         : 7607649
+Passenger Name           : Faina Buxsy
+Home Address             : 0682 Lien Terrace
+Nationality              : Indonesia
+Date of Birth            : 10/02/1992
+Joining Fees ($)         : 999.0
+Money Spent on Cruise($) : 868.0
+Total Spent on Cruise($) : 1867.0
+
+Passenger Number         : 4588441
+Passenger Name           : Chaddy Foxall
+Home Address             : 533 Everett Terrace
+Nationality              : Poland
+Date of Birth            : 31/08/2004
+Joining Fees ($)         : 807.0
+Money Spent on Cruise($) : 869.0
+Total Spent on Cruise($) : 1676.0
+
+Passenger Number         : 2586192
+Passenger Name           : Trula Carlill
+Home Address             : 8662 Darwin Court
+Nationality              : Czech Republic
+Date of Birth            : 20/07/2006
+Joining Fees ($)         : 917.0
+Money Spent on Cruise($) : 869.0
+Total Spent on Cruise($) : 1786.0
+
+Passenger Number         : 4392783
+Passenger Name           : Blithe Raper
+Home Address             : 7 Westport Park
+Nationality              : Indonesia
+Date of Birth            : 15/05/2001
+Joining Fees ($)         : 865.0
+Money Spent on Cruise($) : 871.0
+Total Spent on Cruise($) : 1736.0
+
+Passenger Number         : 6873688
+Passenger Name           : Emmaline Card
+Home Address             : 5482 Huxley Parkway
+Nationality              : Indonesia
+Date of Birth            : 07/06/2004
+Joining Fees ($)         : 938.0
+Money Spent on Cruise($) : 871.0
+Total Spent on Cruise($) : 1809.0
+
+Passenger Number         : 6290981
+Passenger Name           : Elsie Piscopo
+Home Address             : 70212 Cordelia Drive
+Nationality              : Brazil
+Date of Birth            : 16/02/1986
+Joining Fees ($)         : 808.0
+Money Spent on Cruise($) : 872.0
+Total Spent on Cruise($) : 1680.0
+
+Passenger Number         : 3943322
+Passenger Name           : Virgilio Hadcock
+Home Address             : 8 Westridge Hill
+Nationality              : Brazil
+Date of Birth            : 14/03/2002
+Joining Fees ($)         : 829.0
+Money Spent on Cruise($) : 872.0
+Total Spent on Cruise($) : 1701.0
+
+Passenger Number         : 7372674
+Passenger Name           : Hillier Lusk
+Home Address             : 1 Hollow Ridge Point
+Nationality              : Argentina
+Date of Birth            : 14/12/1960
+Joining Fees ($)         : 914.0
+Money Spent on Cruise($) : 872.0
+Total Spent on Cruise($) : 1786.0
+
+Passenger Number         : 2105489
+Passenger Name           : Veronike Stanier
+Home Address             : 3318 Sugar Way
+Nationality              : China
+Date of Birth            : 26/10/1982
+Joining Fees ($)         : 993.0
+Money Spent on Cruise($) : 873.0
+Total Spent on Cruise($) : 1866.0
+
+Passenger Number         : 5492178
+Passenger Name           : Bone Longbone
+Home Address             : 15969 Miller Parkway
+Nationality              : China
+Date of Birth            : 13/06/1985
+Joining Fees ($)         : 971.0
+Money Spent on Cruise($) : 874.0
+Total Spent on Cruise($) : 1845.0
+
+Passenger Number         : 8516091
+Passenger Name           : Kelcy Cannavan
+Home Address             : 85 Starling Place
+Nationality              : Nigeria
+Date of Birth            : 10/01/1962
+Joining Fees ($)         : 928.0
+Money Spent on Cruise($) : 874.0
+Total Spent on Cruise($) : 1802.0
+
+Passenger Number         : 3799844
+Passenger Name           : Nap Lapsley
+Home Address             : 6840 Troy Pass
+Nationality              : China
+Date of Birth            : 24/11/2001
+Joining Fees ($)         : 807.0
+Money Spent on Cruise($) : 876.0
+Total Spent on Cruise($) : 1683.0
+
+Passenger Number         : 4546625
+Passenger Name           : Shandee Fulton
+Home Address             : 804 Sachtjen Way
+Nationality              : Dominica
+Date of Birth            : 26/08/1966
+Joining Fees ($)         : 959.0
+Money Spent on Cruise($) : 876.0
+Total Spent on Cruise($) : 1835.0
+
+Passenger Number         : 3091908
+Passenger Name           : Hadrian MacCumiskey
+Home Address             : 7002 Rigney Lane
+Nationality              : China
+Date of Birth            : 12/07/1989
+Joining Fees ($)         : 928.0
+Money Spent on Cruise($) : 876.0
+Total Spent on Cruise($) : 1804.0
+
+Passenger Number         : 7897916
+Passenger Name           : Rubi Lapthorn
+Home Address             : 548 Mitchell Center
+Nationality              : Slovenia
+Date of Birth            : 26/06/1980
+Joining Fees ($)         : 814.0
+Money Spent on Cruise($) : 877.0
+Total Spent on Cruise($) : 1691.0
+
+Passenger Number         : 1442341
+Passenger Name           : Charmaine Spata
+Home Address             : 03 Jenifer Terrace
+Nationality              : Indonesia
+Date of Birth            : 21/04/1995
+Joining Fees ($)         : 834.0
+Money Spent on Cruise($) : 878.0
+Total Spent on Cruise($) : 1712.0
+
+Passenger Number         : 2651442
+Passenger Name           : Noelani Dignall
+Home Address             : 3 Beilfuss Hill
+Nationality              : China
+Date of Birth            : 11/08/1998
+Joining Fees ($)         : 962.0
+Money Spent on Cruise($) : 878.0
+Total Spent on Cruise($) : 1840.0
+
+Passenger Number         : 1155885
+Passenger Name           : Jamaal Matyushonok
+Home Address             : 12 Aberg Terrace
+Nationality              : China
+Date of Birth            : 28/03/1978
+Joining Fees ($)         : 912.0
+Money Spent on Cruise($) : 878.0
+Total Spent on Cruise($) : 1790.0
+
+Passenger Number         : 3685290
+Passenger Name           : Nevin Pound
+Home Address             : 6024 Larry Park
+Nationality              : Thailand
+Date of Birth            : 12/05/1979
+Joining Fees ($)         : 842.0
+Money Spent on Cruise($) : 879.0
+Total Spent on Cruise($) : 1721.0
+
+Passenger Number         : 4707052
+Passenger Name           : Mariska Blanket
+Home Address             : 20 Clemons Hill
+Nationality              : China
+Date of Birth            : 20/01/1993
+Joining Fees ($)         : 864.0
+Money Spent on Cruise($) : 879.0
+Total Spent on Cruise($) : 1743.0
+
+Passenger Number         : 7735975
+Passenger Name           : Marcia Fish
+Home Address             : 5 Carpenter Way
+Nationality              : Thailand
+Date of Birth            : 27/03/1974
+Joining Fees ($)         : 847.0
+Money Spent on Cruise($) : 879.0
+Total Spent on Cruise($) : 1726.0
+
+Passenger Number         : 4047133
+Passenger Name           : Harriette Giovanardi
+Home Address             : 1684 Ronald Regan Plaza
+Nationality              : China
+Date of Birth            : 10/07/1971
+Joining Fees ($)         : 963.0
+Money Spent on Cruise($) : 880.0
+Total Spent on Cruise($) : 1843.0
+
+Passenger Number         : 2553976
+Passenger Name           : Sandy Rainville
+Home Address             : 9243 Ohio Avenue
+Nationality              : Democratic Republic of the Congo
+Date of Birth            : 15/05/1981
+Joining Fees ($)         : 984.0
+Money Spent on Cruise($) : 880.0
+Total Spent on Cruise($) : 1864.0
+
+Passenger Number         : 1019602
+Passenger Name           : Jase Gallahue
+Home Address             : 021 Nevada Place
+Nationality              : China
+Date of Birth            : 25/01/1991
+Joining Fees ($)         : 947.0
+Money Spent on Cruise($) : 881.0
+Total Spent on Cruise($) : 1828.0
+
+Passenger Number         : 3329851
+Passenger Name           : Othilia Di Giacomo
+Home Address             : 9302 Red Cloud Hill
+Nationality              : Grenada
+Date of Birth            : 21/12/1993
+Joining Fees ($)         : 995.0
+Money Spent on Cruise($) : 881.0
+Total Spent on Cruise($) : 1876.0
+
+Passenger Number         : 2606189
+Passenger Name           : Nanice Merriman
+Home Address             : 8 Bowman Junction
+Nationality              : Portugal
+Date of Birth            : 20/04/2009
+Joining Fees ($)         : 942.0
+Money Spent on Cruise($) : 881.0
+Total Spent on Cruise($) : 1823.0
+
+Passenger Number         : 3442636
+Passenger Name           : Devlen Hannah
+Home Address             : 08 Oneill Lane
+Nationality              : Tunisia
+Date of Birth            : 05/12/1998
+Joining Fees ($)         : 929.0
+Money Spent on Cruise($) : 882.0
+Total Spent on Cruise($) : 1811.0
+
+Passenger Number         : 4886937
+Passenger Name           : Sissy Barts
+Home Address             : 805 Pennsylvania Road
+Nationality              : China
+Date of Birth            : 22/06/1991
+Joining Fees ($)         : 936.0
+Money Spent on Cruise($) : 883.0
+Total Spent on Cruise($) : 1819.0
+
+Passenger Number         : 3337941
+Passenger Name           : Webster Wilmut
+Home Address             : 73963 Superior Point
+Nationality              : Indonesia
+Date of Birth            : 28/06/1978
+Joining Fees ($)         : 911.0
+Money Spent on Cruise($) : 883.0
+Total Spent on Cruise($) : 1794.0
+
+Passenger Number         : 7774335
+Passenger Name           : Marabel Ambrogini
+Home Address             : 5878 Harbort Court
+Nationality              : Uganda
+Date of Birth            : 18/08/1993
+Joining Fees ($)         : 942.0
+Money Spent on Cruise($) : 883.0
+Total Spent on Cruise($) : 1825.0
+
+Passenger Number         : 5450766
+Passenger Name           : Bertie Hierro
+Home Address             : 516 Sachs Alley
+Nationality              : Russia
+Date of Birth            : 12/12/1972
+Joining Fees ($)         : 855.0
+Money Spent on Cruise($) : 883.0
+Total Spent on Cruise($) : 1738.0
+
+Passenger Number         : 8882316
+Passenger Name           : Bethanne Diegan
+Home Address             : 4007 Oak Valley Crossing
+Nationality              : China
+Date of Birth            : 02/12/1991
+Joining Fees ($)         : 989.0
+Money Spent on Cruise($) : 884.0
+Total Spent on Cruise($) : 1873.0
+
+Passenger Number         : 4472269
+Passenger Name           : Darcie Lutty
+Home Address             : 1006 Lawn Terrace
+Nationality              : Malaysia
+Date of Birth            : 14/05/1980
+Joining Fees ($)         : 868.0
+Money Spent on Cruise($) : 884.0
+Total Spent on Cruise($) : 1752.0
+
+Passenger Number         : 7766391
+Passenger Name           : Doralynne Fabry
+Home Address             : 23300 Bonner Pass
+Nationality              : Sweden
+Date of Birth            : 27/04/1997
+Joining Fees ($)         : 972.0
+Money Spent on Cruise($) : 885.0
+Total Spent on Cruise($) : 1857.0
+
+Passenger Number         : 1536068
+Passenger Name           : Fredericka Lineham
+Home Address             : 59462 Myrtle Court
+Nationality              : Brazil
+Date of Birth            : 01/08/1980
+Joining Fees ($)         : 855.0
+Money Spent on Cruise($) : 885.0
+Total Spent on Cruise($) : 1740.0
+
+Passenger Number         : 1283654
+Passenger Name           : Amelia Blaasch
+Home Address             : 45269 Banding Park
+Nationality              : Dominican Republic
+Date of Birth            : 06/04/1999
+Joining Fees ($)         : 948.0
+Money Spent on Cruise($) : 886.0
+Total Spent on Cruise($) : 1834.0
+
+Passenger Number         : 7405754
+Passenger Name           : Reinald Gouldsmith
+Home Address             : 27 Macpherson Place
+Nationality              : Tanzania
+Date of Birth            : 20/10/1967
+Joining Fees ($)         : 994.0
+Money Spent on Cruise($) : 886.0
+Total Spent on Cruise($) : 1880.0
+
+Passenger Number         : 9550857
+Passenger Name           : Elfreda Wildor
+Home Address             : 72900 Rieder Crossing
+Nationality              : Belarus
+Date of Birth            : 27/11/1998
+Joining Fees ($)         : 994.0
+Money Spent on Cruise($) : 886.0
+Total Spent on Cruise($) : 1880.0
+
+Passenger Number         : 1723220
+Passenger Name           : Bee Toleman
+Home Address             : 607 Claremont Park
+Nationality              : China
+Date of Birth            : 07/02/1975
+Joining Fees ($)         : 895.0
+Money Spent on Cruise($) : 886.0
+Total Spent on Cruise($) : 1781.0
+
+Passenger Number         : 7051422
+Passenger Name           : Vaughan Drover
+Home Address             : 3689 Hermina Street
+Nationality              : China
+Date of Birth            : 10/10/1982
+Joining Fees ($)         : 905.0
+Money Spent on Cruise($) : 886.0
+Total Spent on Cruise($) : 1791.0
+
+Passenger Number         : 7872341
+Passenger Name           : Rickie MacFaell
+Home Address             : 016 Texas Place
+Nationality              : Guatemala
+Date of Birth            : 05/09/1970
+Joining Fees ($)         : 924.0
+Money Spent on Cruise($) : 886.0
+Total Spent on Cruise($) : 1810.0
+
+Passenger Number         : 3103301
+Passenger Name           : Becca Pendreigh
+Home Address             : 61 Kropf Hill
+Nationality              : Pakistan
+Date of Birth            : 16/09/1994
+Joining Fees ($)         : 963.0
+Money Spent on Cruise($) : 886.0
+Total Spent on Cruise($) : 1849.0
+
+Passenger Number         : 5588703
+Passenger Name           : Shaun Pattingson
+Home Address             : 554 Magdeline Terrace
+Nationality              : Sweden
+Date of Birth            : 03/03/1990
+Joining Fees ($)         : 937.0
+Money Spent on Cruise($) : 887.0
+Total Spent on Cruise($) : 1824.0
+
+Passenger Number         : 1715922
+Passenger Name           : Manuel Grinstead
+Home Address             : 30 Sutherland Street
+Nationality              : Poland
+Date of Birth            : 05/11/1990
+Joining Fees ($)         : 843.0
+Money Spent on Cruise($) : 887.0
+Total Spent on Cruise($) : 1730.0
+
+Passenger Number         : 4820044
+Passenger Name           : Andree Walster
+Home Address             : 81 Trailsway Circle
+Nationality              : Palestinian Territory
+Date of Birth            : 16/08/1988
+Joining Fees ($)         : 893.0
+Money Spent on Cruise($) : 888.0
+Total Spent on Cruise($) : 1781.0
+
+Passenger Number         : 5084712
+Passenger Name           : Odetta Mordaunt
+Home Address             : 7538 Lindbergh Hill
+Nationality              : Libya
+Date of Birth            : 01/10/1963
+Joining Fees ($)         : 893.0
+Money Spent on Cruise($) : 889.0
+Total Spent on Cruise($) : 1782.0
+
+Passenger Number         : 2223011
+Passenger Name           : Eberto Davies
+Home Address             : 47413 Elka Court
+Nationality              : France
+Date of Birth            : 08/12/2010
+Joining Fees ($)         : 996.0
+Money Spent on Cruise($) : 890.0
+Total Spent on Cruise($) : 1886.0
+
+Passenger Number         : 7204666
+Passenger Name           : Sibilla Coffee
+Home Address             : 148 Hermina Junction
+Nationality              : China
+Date of Birth            : 09/11/1982
+Joining Fees ($)         : 875.0
+Money Spent on Cruise($) : 890.0
+Total Spent on Cruise($) : 1765.0
+
+Passenger Number         : 7885186
+Passenger Name           : Ewell Bunn
+Home Address             : 76860 Porter Hill
+Nationality              : Russia
+Date of Birth            : 30/03/1996
+Joining Fees ($)         : 960.0
+Money Spent on Cruise($) : 890.0
+Total Spent on Cruise($) : 1850.0
+
+Passenger Number         : 7876297
+Passenger Name           : Damiano Heddan
+Home Address             : 4800 Clove Place
+Nationality              : Ukraine
+Date of Birth            : 29/09/1993
+Joining Fees ($)         : 964.0
+Money Spent on Cruise($) : 890.0
+Total Spent on Cruise($) : 1854.0
+
+Passenger Number         : 8351957
+Passenger Name           : Danna Peyes
+Home Address             : 417 Carey Trail
+Nationality              : Ethiopia
+Date of Birth            : 24/01/1983
+Joining Fees ($)         : 865.0
+Money Spent on Cruise($) : 891.0
+Total Spent on Cruise($) : 1756.0
+
+Passenger Number         : 2953627
+Passenger Name           : Lauren Jelf
+Home Address             : 4 Sycamore Avenue
+Nationality              : Indonesia
+Date of Birth            : 05/10/1965
+Joining Fees ($)         : 819.0
+Money Spent on Cruise($) : 892.0
+Total Spent on Cruise($) : 1711.0
+
+Passenger Number         : 4143708
+Passenger Name           : Moe Hudspith
+Home Address             : 0 Tomscot Alley
+Nationality              : Japan
+Date of Birth            : 09/09/1990
+Joining Fees ($)         : 967.0
+Money Spent on Cruise($) : 892.0
+Total Spent on Cruise($) : 1859.0
+
+Passenger Number         : 3090345
+Passenger Name           : Valeda Fairlam
+Home Address             : 16531 Hallows Terrace
+Nationality              : Ireland
+Date of Birth            : 11/07/1991
+Joining Fees ($)         : 849.0
+Money Spent on Cruise($) : 892.0
+Total Spent on Cruise($) : 1741.0
+
+Passenger Number         : 6724298
+Passenger Name           : Sibel Artharg
+Home Address             : 7 Cambridge Plaza
+Nationality              : Russia
+Date of Birth            : 30/08/2006
+Joining Fees ($)         : 949.0
+Money Spent on Cruise($) : 896.0
+Total Spent on Cruise($) : 1845.0
+
+Passenger Number         : 8252830
+Passenger Name           : Audrey Wimp
+Home Address             : 025 Carpenter Crossing
+Nationality              : Taiwan
+Date of Birth            : 03/04/1997
+Joining Fees ($)         : 876.0
+Money Spent on Cruise($) : 896.0
+Total Spent on Cruise($) : 1772.0
+
+Passenger Number         : 9643966
+Passenger Name           : Elena Agglione
+Home Address             : 979 2nd Alley
+Nationality              : China
+Date of Birth            : 07/06/1970
+Joining Fees ($)         : 832.0
+Money Spent on Cruise($) : 897.0
+Total Spent on Cruise($) : 1729.0
+
+Passenger Number         : 4015161
+Passenger Name           : Marlo Speere
+Home Address             : 24 Manitowish Trail
+Nationality              : Philippines
+Date of Birth            : 11/03/1960
+Joining Fees ($)         : 844.0
+Money Spent on Cruise($) : 897.0
+Total Spent on Cruise($) : 1741.0
+
+Passenger Number         : 4941804
+Passenger Name           : Dar Nunn
+Home Address             : 8 Commercial Drive
+Nationality              : Nigeria
+Date of Birth            : 15/12/1992
+Joining Fees ($)         : 982.0
+Money Spent on Cruise($) : 898.0
+Total Spent on Cruise($) : 1880.0
+
+Passenger Number         : 7378394
+Passenger Name           : Ailsun Bonhomme
+Home Address             : 32696 Grasskamp Place
+Nationality              : Indonesia
+Date of Birth            : 13/06/2005
+Joining Fees ($)         : 944.0
+Money Spent on Cruise($) : 898.0
+Total Spent on Cruise($) : 1842.0
+
+Passenger Number         : 3944583
+Passenger Name           : Amalee Tice
+Home Address             : 2770 Sauthoff Plaza
+Nationality              : Philippines
+Date of Birth            : 20/04/2003
+Joining Fees ($)         : 898.0
+Money Spent on Cruise($) : 898.0
+Total Spent on Cruise($) : 1796.0
+
+Passenger Number         : 3095277
+Passenger Name           : Austin Zammett
+Home Address             : 514 Dennis Court
+Nationality              : China
+Date of Birth            : 14/03/1998
+Joining Fees ($)         : 963.0
+Money Spent on Cruise($) : 898.0
+Total Spent on Cruise($) : 1861.0
+
+Passenger Number         : 3075246
+Passenger Name           : Dmitri Tumilson
+Home Address             : 738 Jenna Drive
+Nationality              : Indonesia
+Date of Birth            : 14/11/2007
+Joining Fees ($)         : 951.0
+Money Spent on Cruise($) : 899.0
+Total Spent on Cruise($) : 1850.0
+
+Passenger Number         : 8369868
+Passenger Name           : Maye Ilyunin
+Home Address             : 3650 Granby Trail
+Nationality              : Indonesia
+Date of Birth            : 13/12/1988
+Joining Fees ($)         : 920.0
+Money Spent on Cruise($) : 899.0
+Total Spent on Cruise($) : 1819.0
+
+Passenger Number         : 1507209
+Passenger Name           : Derril Cleverly
+Home Address             : 3 Ludington Way
+Nationality              : China
+Date of Birth            : 31/10/1975
+Joining Fees ($)         : 873.0
+Money Spent on Cruise($) : 899.0
+Total Spent on Cruise($) : 1772.0
+
+Passenger Number         : 2613665
+Passenger Name           : Netti Newbatt
+Home Address             : 37196 Arkansas Way
+Nationality              : United States
+Date of Birth            : 08/05/1961
+Joining Fees ($)         : 958.0
+Money Spent on Cruise($) : 899.0
+Total Spent on Cruise($) : 1857.0
+
+Passenger Number         : 1136627
+Passenger Name           : Cammy Cotter
+Home Address             : 58 Gale Crossing
+Nationality              : Japan
+Date of Birth            : 19/03/1998
+Joining Fees ($)         : 816.0
+Money Spent on Cruise($) : 901.0
+Total Spent on Cruise($) : 1717.0
+
+Passenger Number         : 9303699
+Passenger Name           : Caresse Kelso
+Home Address             : 6 Grover Drive
+Nationality              : Japan
+Date of Birth            : 21/04/1966
+Joining Fees ($)         : 824.0
+Money Spent on Cruise($) : 902.0
+Total Spent on Cruise($) : 1726.0
+
+Passenger Number         : 3513402
+Passenger Name           : Carling Silcock
+Home Address             : 98125 Claremont Hill
+Nationality              : Poland
+Date of Birth            : 15/02/1988
+Joining Fees ($)         : 894.0
+Money Spent on Cruise($) : 902.0
+Total Spent on Cruise($) : 1796.0
+
+Passenger Number         : 6098175
+Passenger Name           : Fergus Brookson
+Home Address             : 79 Commercial Plaza
+Nationality              : Brazil
+Date of Birth            : 05/04/1995
+Joining Fees ($)         : 900.0
+Money Spent on Cruise($) : 902.0
+Total Spent on Cruise($) : 1802.0
+
+Passenger Number         : 2703572
+Passenger Name           : Maire Jickles
+Home Address             : 4 Heath Crossing
+Nationality              : Portugal
+Date of Birth            : 20/05/1960
+Joining Fees ($)         : 807.0
+Money Spent on Cruise($) : 903.0
+Total Spent on Cruise($) : 1710.0
+
+Passenger Number         : 4831842
+Passenger Name           : Jordon Hamments
+Home Address             : 6903 David Park
+Nationality              : China
+Date of Birth            : 24/10/1985
+Joining Fees ($)         : 941.0
+Money Spent on Cruise($) : 904.0
+Total Spent on Cruise($) : 1845.0
+
+Passenger Number         : 5878482
+Passenger Name           : Bordy Baroche
+Home Address             : 58011 Eagan Parkway
+Nationality              : Pakistan
+Date of Birth            : 14/03/1968
+Joining Fees ($)         : 804.0
+Money Spent on Cruise($) : 904.0
+Total Spent on Cruise($) : 1708.0
+
+Passenger Number         : 1936724
+Passenger Name           : Bobbye Penner
+Home Address             : 811 Division Center
+Nationality              : Brazil
+Date of Birth            : 29/06/1975
+Joining Fees ($)         : 939.0
+Money Spent on Cruise($) : 905.0
+Total Spent on Cruise($) : 1844.0
+
+Passenger Number         : 9868131
+Passenger Name           : Damon Nend
+Home Address             : 6211 Eastwood Terrace
+Nationality              : Cuba
+Date of Birth            : 11/10/1986
+Joining Fees ($)         : 875.0
+Money Spent on Cruise($) : 906.0
+Total Spent on Cruise($) : 1781.0
+
+Passenger Number         : 2340101
+Passenger Name           : Lynna Blune
+Home Address             : 5391 Merry Court
+Nationality              : Palestinian Territory
+Date of Birth            : 15/10/1978
+Joining Fees ($)         : 941.0
+Money Spent on Cruise($) : 906.0
+Total Spent on Cruise($) : 1847.0
+
+Passenger Number         : 8487388
+Passenger Name           : Loralie Puddle
+Home Address             : 14 Carpenter Avenue
+Nationality              : Russia
+Date of Birth            : 12/02/2005
+Joining Fees ($)         : 816.0
+Money Spent on Cruise($) : 907.0
+Total Spent on Cruise($) : 1723.0
+
+Passenger Number         : 3887811
+Passenger Name           : Allina Fifield
+Home Address             : 3 Farmco Way
+Nationality              : Ukraine
+Date of Birth            : 27/01/1985
+Joining Fees ($)         : 937.0
+Money Spent on Cruise($) : 908.0
+Total Spent on Cruise($) : 1845.0
+
+Passenger Number         : 3109058
+Passenger Name           : Gray Crapper
+Home Address             : 0 Loomis Junction
+Nationality              : Ukraine
+Date of Birth            : 29/04/1979
+Joining Fees ($)         : 947.0
+Money Spent on Cruise($) : 909.0
+Total Spent on Cruise($) : 1856.0
+
+Passenger Number         : 5640512
+Passenger Name           : Hurleigh Bohlens
+Home Address             : 79162 Logan Plaza
+Nationality              : Philippines
+Date of Birth            : 16/01/1967
+Joining Fees ($)         : 931.0
+Money Spent on Cruise($) : 910.0
+Total Spent on Cruise($) : 1841.0
+
+Passenger Number         : 1573923
+Passenger Name           : Gale Crix
+Home Address             : 3 Mayer Alley
+Nationality              : Nicaragua
+Date of Birth            : 18/03/1991
+Joining Fees ($)         : 804.0
+Money Spent on Cruise($) : 910.0
+Total Spent on Cruise($) : 1714.0
+
+Passenger Number         : 9438388
+Passenger Name           : Tiffy Sorey
+Home Address             : 0 Chive Lane
+Nationality              : Bulgaria
+Date of Birth            : 03/02/1990
+Joining Fees ($)         : 918.0
+Money Spent on Cruise($) : 912.0
+Total Spent on Cruise($) : 1830.0
+
+Passenger Number         : 6128224
+Passenger Name           : Annabelle Tunnicliffe
+Home Address             : 656 Northridge Place
+Nationality              : China
+Date of Birth            : 17/07/1979
+Joining Fees ($)         : 996.0
+Money Spent on Cruise($) : 912.0
+Total Spent on Cruise($) : 1908.0
+
+Passenger Number         : 3402094
+Passenger Name           : Loella Steely
+Home Address             : 4 Bowman Crossing
+Nationality              : Albania
+Date of Birth            : 29/04/2003
+Joining Fees ($)         : 979.0
+Money Spent on Cruise($) : 913.0
+Total Spent on Cruise($) : 1892.0
+
+Passenger Number         : 5593463
+Passenger Name           : Essie Readings
+Home Address             : 92 Ilene Avenue
+Nationality              : Japan
+Date of Birth            : 28/06/1972
+Joining Fees ($)         : 824.0
+Money Spent on Cruise($) : 915.0
+Total Spent on Cruise($) : 1739.0
+
+Passenger Number         : 5549395
+Passenger Name           : Alasdair Rigbye
+Home Address             : 24079 Sutherland Point
+Nationality              : Vietnam
+Date of Birth            : 27/12/1964
+Joining Fees ($)         : 956.0
+Money Spent on Cruise($) : 915.0
+Total Spent on Cruise($) : 1871.0
+
+Passenger Number         : 2416720
+Passenger Name           : Hilda Ellerey
+Home Address             : 859 Mifflin Drive
+Nationality              : Indonesia
+Date of Birth            : 21/12/2010
+Joining Fees ($)         : 935.0
+Money Spent on Cruise($) : 916.0
+Total Spent on Cruise($) : 1851.0
+
+Passenger Number         : 5830076
+Passenger Name           : Timmie Konerding
+Home Address             : 581 High Crossing Pass
+Nationality              : China
+Date of Birth            : 14/10/1997
+Joining Fees ($)         : 891.0
+Money Spent on Cruise($) : 917.0
+Total Spent on Cruise($) : 1808.0
+
+Passenger Number         : 8235366
+Passenger Name           : Elaine Hegden
+Home Address             : 6 Onsgard Trail
+Nationality              : Philippines
+Date of Birth            : 13/05/2008
+Joining Fees ($)         : 987.0
+Money Spent on Cruise($) : 918.0
+Total Spent on Cruise($) : 1905.0
+
+Passenger Number         : 1422608
+Passenger Name           : Carly Royan
+Home Address             : 3 Emmet Pass
+Nationality              : Bulgaria
+Date of Birth            : 21/02/1960
+Joining Fees ($)         : 858.0
+Money Spent on Cruise($) : 918.0
+Total Spent on Cruise($) : 1776.0
+
+Passenger Number         : 4117854
+Passenger Name           : Trumaine Shiell
+Home Address             : 57 Bashford Crossing
+Nationality              : Israel
+Date of Birth            : 24/02/1981
+Joining Fees ($)         : 806.0
+Money Spent on Cruise($) : 918.0
+Total Spent on Cruise($) : 1724.0
+
+Passenger Number         : 6429260
+Passenger Name           : Cash Creenan
+Home Address             : 1 Westport Parkway
+Nationality              : Ireland
+Date of Birth            : 10/04/1963
+Joining Fees ($)         : 951.0
+Money Spent on Cruise($) : 919.0
+Total Spent on Cruise($) : 1870.0
+
+Passenger Number         : 1384669
+Passenger Name           : Trenton Claybourn
+Home Address             : 74 Hovde Way
+Nationality              : Ukraine
+Date of Birth            : 04/05/1996
+Joining Fees ($)         : 891.0
+Money Spent on Cruise($) : 919.0
+Total Spent on Cruise($) : 1810.0
+
+Passenger Number         : 1937768
+Passenger Name           : Charita McMorran
+Home Address             : 1 Sunfield Way
+Nationality              : Russia
+Date of Birth            : 01/02/1999
+Joining Fees ($)         : 844.0
+Money Spent on Cruise($) : 919.0
+Total Spent on Cruise($) : 1763.0
+
+Passenger Number         : 9229274
+Passenger Name           : Trixy Nazair
+Home Address             : 1 Transport Parkway
+Nationality              : Peru
+Date of Birth            : 25/08/1989
+Joining Fees ($)         : 807.0
+Money Spent on Cruise($) : 920.0
+Total Spent on Cruise($) : 1727.0
+
+Passenger Number         : 7059183
+Passenger Name           : Caspar Pear
+Home Address             : 696 Gina Pass
+Nationality              : Indonesia
+Date of Birth            : 30/11/1988
+Joining Fees ($)         : 875.0
+Money Spent on Cruise($) : 920.0
+Total Spent on Cruise($) : 1795.0
+
+Passenger Number         : 7046137
+Passenger Name           : Franz McKeaney
+Home Address             : 78 Reinke Park
+Nationality              : Armenia
+Date of Birth            : 08/05/1993
+Joining Fees ($)         : 944.0
+Money Spent on Cruise($) : 920.0
+Total Spent on Cruise($) : 1864.0
+
+Passenger Number         : 5749039
+Passenger Name           : Riannon Mapplebeck
+Home Address             : 2 Red Cloud Crossing
+Nationality              : China
+Date of Birth            : 06/06/1969
+Joining Fees ($)         : 855.0
+Money Spent on Cruise($) : 920.0
+Total Spent on Cruise($) : 1775.0
+
+Passenger Number         : 7233516
+Passenger Name           : Nanine Ibbett
+Home Address             : 32 Sullivan Park
+Nationality              : Russia
+Date of Birth            : 24/09/1965
+Joining Fees ($)         : 803.0
+Money Spent on Cruise($) : 920.0
+Total Spent on Cruise($) : 1723.0
+
+Passenger Number         : 5694038
+Passenger Name           : Honor Osgar
+Home Address             : 9090 Springs Center
+Nationality              : Belarus
+Date of Birth            : 28/08/1961
+Joining Fees ($)         : 979.0
+Money Spent on Cruise($) : 921.0
+Total Spent on Cruise($) : 1900.0
+
+Passenger Number         : 1924170
+Passenger Name           : Blythe Heathorn
+Home Address             : 9965 Blaine Place
+Nationality              : Vietnam
+Date of Birth            : 04/06/2006
+Joining Fees ($)         : 821.0
+Money Spent on Cruise($) : 921.0
+Total Spent on Cruise($) : 1742.0
+
+Passenger Number         : 7540894
+Passenger Name           : Dylan Springtorpe
+Home Address             : 9104 Northwestern Way
+Nationality              : Greece
+Date of Birth            : 26/08/1984
+Joining Fees ($)         : 987.0
+Money Spent on Cruise($) : 922.0
+Total Spent on Cruise($) : 1909.0
+
+Passenger Number         : 5216237
+Passenger Name           : Pauline Bartolommeo
+Home Address             : 31 Buhler Road
+Nationality              : France
+Date of Birth            : 03/05/2005
+Joining Fees ($)         : 864.0
+Money Spent on Cruise($) : 922.0
+Total Spent on Cruise($) : 1786.0
+
+Passenger Number         : 7672619
+Passenger Name           : Lotti Woollaston
+Home Address             : 7531 Myrtle Road
+Nationality              : Czech Republic
+Date of Birth            : 26/03/1977
+Joining Fees ($)         : 987.0
+Money Spent on Cruise($) : 923.0
+Total Spent on Cruise($) : 1910.0
+
+Passenger Number         : 8735023
+Passenger Name           : Monti Willmer
+Home Address             : 9 Mayer Point
+Nationality              : Argentina
+Date of Birth            : 31/01/2002
+Joining Fees ($)         : 875.0
+Money Spent on Cruise($) : 924.0
+Total Spent on Cruise($) : 1799.0
+
+Passenger Number         : 1371666
+Passenger Name           : Alasdair Blight
+Home Address             : 26517 Loomis Plaza
+Nationality              : Cyprus
+Date of Birth            : 31/12/1987
+Joining Fees ($)         : 880.0
+Money Spent on Cruise($) : 924.0
+Total Spent on Cruise($) : 1804.0
+
+Passenger Number         : 2384765
+Passenger Name           : Eden Isack
+Home Address             : 61 Eliot Park
+Nationality              : Cyprus
+Date of Birth            : 24/08/1974
+Joining Fees ($)         : 849.0
+Money Spent on Cruise($) : 924.0
+Total Spent on Cruise($) : 1773.0
+
+Passenger Number         : 3474287
+Passenger Name           : Walton Tennick
+Home Address             : 4 Bashford Terrace
+Nationality              : China
+Date of Birth            : 20/05/1993
+Joining Fees ($)         : 944.0
+Money Spent on Cruise($) : 926.0
+Total Spent on Cruise($) : 1870.0
+
+Passenger Number         : 3952376
+Passenger Name           : Kelli Marchiso
+Home Address             : 2 Buena Vista Junction
+Nationality              : Philippines
+Date of Birth            : 11/02/1992
+Joining Fees ($)         : 887.0
+Money Spent on Cruise($) : 926.0
+Total Spent on Cruise($) : 1813.0
+
+Passenger Number         : 3167402
+Passenger Name           : Granville Hacard
+Home Address             : 80916 Ohio Parkway
+Nationality              : Greece
+Date of Birth            : 02/03/2002
+Joining Fees ($)         : 924.0
+Money Spent on Cruise($) : 928.0
+Total Spent on Cruise($) : 1852.0
+
+Passenger Number         : 5100193
+Passenger Name           : Peirce Klimkin
+Home Address             : 7145 Cherokee Terrace
+Nationality              : Indonesia
+Date of Birth            : 09/05/1961
+Joining Fees ($)         : 830.0
+Money Spent on Cruise($) : 929.0
+Total Spent on Cruise($) : 1759.0
+
+Passenger Number         : 4599118
+Passenger Name           : Gladi Adolthine
+Home Address             : 0 Carpenter Avenue
+Nationality              : Sweden
+Date of Birth            : 24/10/2006
+Joining Fees ($)         : 914.0
+Money Spent on Cruise($) : 929.0
+Total Spent on Cruise($) : 1843.0
+
+Passenger Number         : 2249435
+Passenger Name           : Eveleen Burriss
+Home Address             : 82754 Basil Road
+Nationality              : Portugal
+Date of Birth            : 13/08/1983
+Joining Fees ($)         : 917.0
+Money Spent on Cruise($) : 930.0
+Total Spent on Cruise($) : 1847.0
+
+Passenger Number         : 7658523
+Passenger Name           : Odelia Offell
+Home Address             : 659 Vahlen Place
+Nationality              : Finland
+Date of Birth            : 12/12/1967
+Joining Fees ($)         : 898.0
+Money Spent on Cruise($) : 930.0
+Total Spent on Cruise($) : 1828.0
+
+Passenger Number         : 7656071
+Passenger Name           : Sheilakathryn Purvey
+Home Address             : 78 Village Green Court
+Nationality              : Sweden
+Date of Birth            : 12/09/1962
+Joining Fees ($)         : 933.0
+Money Spent on Cruise($) : 930.0
+Total Spent on Cruise($) : 1863.0
+
+Passenger Number         : 8070040
+Passenger Name           : Stearn O'Dunniom
+Home Address             : 4492 Stang Parkway
+Nationality              : Haiti
+Date of Birth            : 21/04/1971
+Joining Fees ($)         : 907.0
+Money Spent on Cruise($) : 931.0
+Total Spent on Cruise($) : 1838.0
+
+Passenger Number         : 2097932
+Passenger Name           : Purcell Bowe
+Home Address             : 4634 Chive Alley
+Nationality              : China
+Date of Birth            : 17/08/1988
+Joining Fees ($)         : 824.0
+Money Spent on Cruise($) : 931.0
+Total Spent on Cruise($) : 1755.0
+
+Passenger Number         : 7488537
+Passenger Name           : Tersina Saiger
+Home Address             : 73 Hoard Junction
+Nationality              : Russia
+Date of Birth            : 16/04/2006
+Joining Fees ($)         : 874.0
+Money Spent on Cruise($) : 931.0
+Total Spent on Cruise($) : 1805.0
+
+Passenger Number         : 7285275
+Passenger Name           : Gabi Turfus
+Home Address             : 0820 Corscot Trail
+Nationality              : Bolivia
+Date of Birth            : 06/11/2004
+Joining Fees ($)         : 918.0
+Money Spent on Cruise($) : 931.0
+Total Spent on Cruise($) : 1849.0
+
+Passenger Number         : 8119076
+Passenger Name           : Dorian Shepherdson
+Home Address             : 7083 Warner Pass
+Nationality              : China
+Date of Birth            : 21/12/1970
+Joining Fees ($)         : 935.0
+Money Spent on Cruise($) : 932.0
+Total Spent on Cruise($) : 1867.0
+
+Passenger Number         : 5673901
+Passenger Name           : Jannelle Give
+Home Address             : 8234 Melby Alley
+Nationality              : Serbia
+Date of Birth            : 13/07/1964
+Joining Fees ($)         : 872.0
+Money Spent on Cruise($) : 932.0
+Total Spent on Cruise($) : 1804.0
+
+Passenger Number         : 3796584
+Passenger Name           : Maisey Bernardelli
+Home Address             : 3 Russell Lane
+Nationality              : Bulgaria
+Date of Birth            : 13/01/1975
+Joining Fees ($)         : 913.0
+Money Spent on Cruise($) : 933.0
+Total Spent on Cruise($) : 1846.0
+
+Passenger Number         : 4208258
+Passenger Name           : Benedikt Gibberd
+Home Address             : 2092 Northwestern Junction
+Nationality              : Indonesia
+Date of Birth            : 28/01/1963
+Joining Fees ($)         : 912.0
+Money Spent on Cruise($) : 934.0
+Total Spent on Cruise($) : 1846.0
+
+Passenger Number         : 6307279
+Passenger Name           : Milo Skelhorn
+Home Address             : 8 Sutteridge Pass
+Nationality              : Philippines
+Date of Birth            : 21/10/2010
+Joining Fees ($)         : 806.0
+Money Spent on Cruise($) : 934.0
+Total Spent on Cruise($) : 1740.0
+
+Passenger Number         : 9420150
+Passenger Name           : Erma Grinnell
+Home Address             : 29349 Washington Alley
+Nationality              : China
+Date of Birth            : 26/08/1964
+Joining Fees ($)         : 882.0
+Money Spent on Cruise($) : 935.0
+Total Spent on Cruise($) : 1817.0
+
+Passenger Number         : 8296543
+Passenger Name           : Purcell Swancott
+Home Address             : 12 Farmco Way
+Nationality              : Tunisia
+Date of Birth            : 17/06/1961
+Joining Fees ($)         : 805.0
+Money Spent on Cruise($) : 936.0
+Total Spent on Cruise($) : 1741.0
+
+Passenger Number         : 2283066
+Passenger Name           : Anetta Wrenn
+Home Address             : 533 Reindahl Avenue
+Nationality              : China
+Date of Birth            : 10/07/1973
+Joining Fees ($)         : 960.0
+Money Spent on Cruise($) : 938.0
+Total Spent on Cruise($) : 1898.0
+
+Passenger Number         : 4982961
+Passenger Name           : Layne Gulston
+Home Address             : 099 Hoffman Parkway
+Nationality              : Czech Republic
+Date of Birth            : 31/08/1966
+Joining Fees ($)         : 859.0
+Money Spent on Cruise($) : 938.0
+Total Spent on Cruise($) : 1797.0
+
+Passenger Number         : 4589442
+Passenger Name           : Pammie Jessett
+Home Address             : 6 Longview Parkway
+Nationality              : China
+Date of Birth            : 20/05/2008
+Joining Fees ($)         : 913.0
+Money Spent on Cruise($) : 938.0
+Total Spent on Cruise($) : 1851.0
+
+Passenger Number         : 9037325
+Passenger Name           : Christabel Lammert
+Home Address             : 851 Comanche Place
+Nationality              : Philippines
+Date of Birth            : 29/09/1968
+Joining Fees ($)         : 882.0
+Money Spent on Cruise($) : 939.0
+Total Spent on Cruise($) : 1821.0
+
+Passenger Number         : 3892954
+Passenger Name           : Jerrie Burdus
+Home Address             : 23419 Arkansas Center
+Nationality              : Indonesia
+Date of Birth            : 25/09/2001
+Joining Fees ($)         : 921.0
+Money Spent on Cruise($) : 939.0
+Total Spent on Cruise($) : 1860.0
+
+Passenger Number         : 1163454
+Passenger Name           : Henka Willavoys
+Home Address             : 0584 Mayfield Pass
+Nationality              : Brazil
+Date of Birth            : 01/03/1972
+Joining Fees ($)         : 962.0
+Money Spent on Cruise($) : 940.0
+Total Spent on Cruise($) : 1902.0
+
+Passenger Number         : 7554020
+Passenger Name           : Frazer Boggon
+Home Address             : 2150 Lakewood Circle
+Nationality              : Philippines
+Date of Birth            : 24/09/1983
+Joining Fees ($)         : 927.0
+Money Spent on Cruise($) : 940.0
+Total Spent on Cruise($) : 1867.0
+
+Passenger Number         : 6816776
+Passenger Name           : Al Gepp
+Home Address             : 10 Dapin Crossing
+Nationality              : Norway
+Date of Birth            : 10/03/1979
+Joining Fees ($)         : 964.0
+Money Spent on Cruise($) : 941.0
+Total Spent on Cruise($) : 1905.0
+
+Passenger Number         : 9234881
+Passenger Name           : Giavani Devita
+Home Address             : 39 Southridge Pass
+Nationality              : Ireland
+Date of Birth            : 20/05/2003
+Joining Fees ($)         : 935.0
+Money Spent on Cruise($) : 941.0
+Total Spent on Cruise($) : 1876.0
+
+Passenger Number         : 8699778
+Passenger Name           : Whitney Divis
+Home Address             : 3 Sommers Parkway
+Nationality              : Czech Republic
+Date of Birth            : 16/05/1999
+Joining Fees ($)         : 869.0
+Money Spent on Cruise($) : 942.0
+Total Spent on Cruise($) : 1811.0
+
+Passenger Number         : 2495538
+Passenger Name           : Jasmine Gillino
+Home Address             : 8232 Steensland Road
+Nationality              : Bulgaria
+Date of Birth            : 28/07/1964
+Joining Fees ($)         : 828.0
+Money Spent on Cruise($) : 943.0
+Total Spent on Cruise($) : 1771.0
+
+Passenger Number         : 5034016
+Passenger Name           : Romola Fittall
+Home Address             : 02234 Truax Way
+Nationality              : Philippines
+Date of Birth            : 16/06/1992
+Joining Fees ($)         : 857.0
+Money Spent on Cruise($) : 943.0
+Total Spent on Cruise($) : 1800.0
+
+Passenger Number         : 9044481
+Passenger Name           : Cass Scarlin
+Home Address             : 379 Alpine Alley
+Nationality              : Philippines
+Date of Birth            : 31/07/2008
+Joining Fees ($)         : 971.0
+Money Spent on Cruise($) : 944.0
+Total Spent on Cruise($) : 1915.0
+
+Passenger Number         : 8846552
+Passenger Name           : Jenelle Jedrych
+Home Address             : 169 Heath Plaza
+Nationality              : Indonesia
+Date of Birth            : 19/07/1974
+Joining Fees ($)         : 893.0
+Money Spent on Cruise($) : 944.0
+Total Spent on Cruise($) : 1837.0
+
+Passenger Number         : 4680373
+Passenger Name           : Gertrud Beggio
+Home Address             : 21 Hallows Point
+Nationality              : Indonesia
+Date of Birth            : 30/09/2008
+Joining Fees ($)         : 912.0
+Money Spent on Cruise($) : 944.0
+Total Spent on Cruise($) : 1856.0
+
+Passenger Number         : 2358824
+Passenger Name           : Dita Beri
+Home Address             : 3496 Shopko Circle
+Nationality              : China
+Date of Birth            : 10/07/1983
+Joining Fees ($)         : 952.0
+Money Spent on Cruise($) : 945.0
+Total Spent on Cruise($) : 1897.0
+
+Passenger Number         : 7679442
+Passenger Name           : Chariot Abramsky
+Home Address             : 83 Knutson Terrace
+Nationality              : China
+Date of Birth            : 24/04/1963
+Joining Fees ($)         : 801.0
+Money Spent on Cruise($) : 945.0
+Total Spent on Cruise($) : 1746.0
+
+Passenger Number         : 5230966
+Passenger Name           : Kali Keems
+Home Address             : 313 Briar Crest Center
+Nationality              : Indonesia
+Date of Birth            : 20/09/1968
+Joining Fees ($)         : 927.0
+Money Spent on Cruise($) : 945.0
+Total Spent on Cruise($) : 1872.0
+
+Passenger Number         : 3034203
+Passenger Name           : Carly Lavrick
+Home Address             : 43032 John Wall Parkway
+Nationality              : Turkmenistan
+Date of Birth            : 22/08/1981
+Joining Fees ($)         : 921.0
+Money Spent on Cruise($) : 946.0
+Total Spent on Cruise($) : 1867.0
+
+Passenger Number         : 7787271
+Passenger Name           : Jilli Staples
+Home Address             : 6 Helena Place
+Nationality              : China
+Date of Birth            : 02/04/2000
+Joining Fees ($)         : 958.0
+Money Spent on Cruise($) : 947.0
+Total Spent on Cruise($) : 1905.0
+
+Passenger Number         : 2700360
+Passenger Name           : Zabrina Crone
+Home Address             : 21 Russell Avenue
+Nationality              : Honduras
+Date of Birth            : 21/08/1961
+Joining Fees ($)         : 997.0
+Money Spent on Cruise($) : 947.0
+Total Spent on Cruise($) : 1944.0
+
+Passenger Number         : 1143489
+Passenger Name           : Herby Hemphrey
+Home Address             : 2 Mosinee Parkway
+Nationality              : Russia
+Date of Birth            : 22/01/1969
+Joining Fees ($)         : 953.0
+Money Spent on Cruise($) : 948.0
+Total Spent on Cruise($) : 1901.0
+
+Passenger Number         : 5304587
+Passenger Name           : Retha Miner
+Home Address             : 390 Meadow Vale Avenue
+Nationality              : Indonesia
+Date of Birth            : 23/03/1982
+Joining Fees ($)         : 961.0
+Money Spent on Cruise($) : 949.0
+Total Spent on Cruise($) : 1910.0
+
+Passenger Number         : 2367654
+Passenger Name           : Chloette Lakeman
+Home Address             : 0582 Holy Cross Alley
+Nationality              : Equatorial Guinea
+Date of Birth            : 30/04/1987
+Joining Fees ($)         : 991.0
+Money Spent on Cruise($) : 950.0
+Total Spent on Cruise($) : 1941.0
+
+Passenger Number         : 6458560
+Passenger Name           : Kristoffer Mowsley
+Home Address             : 594 Nevada Terrace
+Nationality              : China
+Date of Birth            : 01/10/1962
+Joining Fees ($)         : 972.0
+Money Spent on Cruise($) : 950.0
+Total Spent on Cruise($) : 1922.0
+
+Passenger Number         : 8343660
+Passenger Name           : Haslett Knudsen
+Home Address             : 57591 Burning Wood Road
+Nationality              : Botswana
+Date of Birth            : 17/05/1960
+Joining Fees ($)         : 911.0
+Money Spent on Cruise($) : 950.0
+Total Spent on Cruise($) : 1861.0
+
+Passenger Number         : 4738268
+Passenger Name           : Powell Greene
+Home Address             : 46 Welch Parkway
+Nationality              : China
+Date of Birth            : 13/12/1965
+Joining Fees ($)         : 900.0
+Money Spent on Cruise($) : 950.0
+Total Spent on Cruise($) : 1850.0
+
+Passenger Number         : 2394396
+Passenger Name           : Kliment Blakeston
+Home Address             : 91 Trailsway Trail
+Nationality              : Indonesia
+Date of Birth            : 11/06/1978
+Joining Fees ($)         : 979.0
+Money Spent on Cruise($) : 951.0
+Total Spent on Cruise($) : 1930.0
+
+Passenger Number         : 9170238
+Passenger Name           : Charlene Songhurst
+Home Address             : 71843 Brentwood Way
+Nationality              : Sweden
+Date of Birth            : 13/10/1996
+Joining Fees ($)         : 832.0
+Money Spent on Cruise($) : 951.0
+Total Spent on Cruise($) : 1783.0
+
+Passenger Number         : 9238946
+Passenger Name           : Abagail Purslow
+Home Address             : 87407 Melvin Avenue
+Nationality              : France
+Date of Birth            : 07/01/1960
+Joining Fees ($)         : 952.0
+Money Spent on Cruise($) : 952.0
+Total Spent on Cruise($) : 1904.0
+
+Passenger Number         : 8206478
+Passenger Name           : Blake Trouncer
+Home Address             : 57 Brown Hill
+Nationality              : Portugal
+Date of Birth            : 23/01/1981
+Joining Fees ($)         : 869.0
+Money Spent on Cruise($) : 953.0
+Total Spent on Cruise($) : 1822.0
+
+Passenger Number         : 5279963
+Passenger Name           : Jerrold Lazenbury
+Home Address             : 02554 David Hill
+Nationality              : Vietnam
+Date of Birth            : 21/02/2002
+Joining Fees ($)         : 897.0
+Money Spent on Cruise($) : 953.0
+Total Spent on Cruise($) : 1850.0
+
+Passenger Number         : 3711704
+Passenger Name           : Silva Pietasch
+Home Address             : 29160 Graceland Point
+Nationality              : Iran
+Date of Birth            : 22/04/1966
+Joining Fees ($)         : 932.0
+Money Spent on Cruise($) : 953.0
+Total Spent on Cruise($) : 1885.0
+
+Passenger Number         : 8097208
+Passenger Name           : Kori Knoble
+Home Address             : 1172 Muir Point
+Nationality              : China
+Date of Birth            : 29/09/1975
+Joining Fees ($)         : 988.0
+Money Spent on Cruise($) : 953.0
+Total Spent on Cruise($) : 1941.0
+
+Passenger Number         : 6576157
+Passenger Name           : Cornela Sidary
+Home Address             : 6476 Dorton Plaza
+Nationality              : Tanzania
+Date of Birth            : 28/02/1978
+Joining Fees ($)         : 990.0
+Money Spent on Cruise($) : 953.0
+Total Spent on Cruise($) : 1943.0
+
+Passenger Number         : 1817108
+Passenger Name           : Margi Valentelli
+Home Address             : 229 Dottie Road
+Nationality              : China
+Date of Birth            : 16/10/1980
+Joining Fees ($)         : 903.0
+Money Spent on Cruise($) : 954.0
+Total Spent on Cruise($) : 1857.0
+
+Passenger Number         : 1615647
+Passenger Name           : Gussy Nanni
+Home Address             : 443 Cascade Center
+Nationality              : Russia
+Date of Birth            : 22/01/1970
+Joining Fees ($)         : 876.0
+Money Spent on Cruise($) : 954.0
+Total Spent on Cruise($) : 1830.0
+
+Passenger Number         : 9189354
+Passenger Name           : Jamima McLeish
+Home Address             : 387 Jay Street
+Nationality              : Democratic Republic of the Congo
+Date of Birth            : 02/06/2000
+Joining Fees ($)         : 817.0
+Money Spent on Cruise($) : 954.0
+Total Spent on Cruise($) : 1771.0
+
+Passenger Number         : 8127494
+Passenger Name           : Hermina Gregersen
+Home Address             : 047 Roth Center
+Nationality              : Estonia
+Date of Birth            : 28/04/1996
+Joining Fees ($)         : 959.0
+Money Spent on Cruise($) : 954.0
+Total Spent on Cruise($) : 1913.0
+
+Passenger Number         : 4462223
+Passenger Name           : Lishe Delle
+Home Address             : 7290 Dorton Point
+Nationality              : Philippines
+Date of Birth            : 14/09/1961
+Joining Fees ($)         : 964.0
+Money Spent on Cruise($) : 955.0
+Total Spent on Cruise($) : 1919.0
+
+Passenger Number         : 3645227
+Passenger Name           : Clemence Cremin
+Home Address             : 40 American Ash Park
+Nationality              : Israel
+Date of Birth            : 11/04/1961
+Joining Fees ($)         : 970.0
+Money Spent on Cruise($) : 956.0
+Total Spent on Cruise($) : 1926.0
+
+Passenger Number         : 8884411
+Passenger Name           : Gert Recke
+Home Address             : 7 Schlimgen Place
+Nationality              : China
+Date of Birth            : 19/08/1986
+Joining Fees ($)         : 982.0
+Money Spent on Cruise($) : 957.0
+Total Spent on Cruise($) : 1939.0
+
+Passenger Number         : 6850552
+Passenger Name           : Berne Guilleton
+Home Address             : 1966 Kings Park
+Nationality              : China
+Date of Birth            : 19/04/1972
+Joining Fees ($)         : 832.0
+Money Spent on Cruise($) : 958.0
+Total Spent on Cruise($) : 1790.0
+
+Passenger Number         : 3212496
+Passenger Name           : Britteny Refford
+Home Address             : 7854 Veith Junction
+Nationality              : China
+Date of Birth            : 23/08/2010
+Joining Fees ($)         : 865.0
+Money Spent on Cruise($) : 959.0
+Total Spent on Cruise($) : 1824.0
+
+Passenger Number         : 2751188
+Passenger Name           : Vittorio Veldstra
+Home Address             : 6 Oakridge Alley
+Nationality              : Thailand
+Date of Birth            : 23/05/1979
+Joining Fees ($)         : 994.0
+Money Spent on Cruise($) : 960.0
+Total Spent on Cruise($) : 1954.0
+
+Passenger Number         : 8045469
+Passenger Name           : Cameron Tuffield
+Home Address             : 6 Gerald Center
+Nationality              : Colombia
+Date of Birth            : 21/05/1998
+Joining Fees ($)         : 880.0
+Money Spent on Cruise($) : 961.0
+Total Spent on Cruise($) : 1841.0
+
+Passenger Number         : 4460473
+Passenger Name           : Catlaina Kitchingham
+Home Address             : 45838 Hauk Parkway
+Nationality              : Thailand
+Date of Birth            : 26/06/2008
+Joining Fees ($)         : 868.0
+Money Spent on Cruise($) : 962.0
+Total Spent on Cruise($) : 1830.0
+
+Passenger Number         : 5408471
+Passenger Name           : Brandais Antunez
+Home Address             : 2 Sunnyside Park
+Nationality              : Portugal
+Date of Birth            : 25/01/1999
+Joining Fees ($)         : 836.0
+Money Spent on Cruise($) : 962.0
+Total Spent on Cruise($) : 1798.0
+
+Passenger Number         : 1879794
+Passenger Name           : Eustace Want
+Home Address             : 54626 Buell Circle
+Nationality              : Brazil
+Date of Birth            : 26/10/2003
+Joining Fees ($)         : 906.0
+Money Spent on Cruise($) : 962.0
+Total Spent on Cruise($) : 1868.0
+
+Passenger Number         : 1888004
+Passenger Name           : Arturo Polack
+Home Address             : 0018 Thierer Alley
+Nationality              : Greece
+Date of Birth            : 03/04/1973
+Joining Fees ($)         : 845.0
+Money Spent on Cruise($) : 962.0
+Total Spent on Cruise($) : 1807.0
+
+Passenger Number         : 4078087
+Passenger Name           : Bax Gritskov
+Home Address             : 5819 Scott Street
+Nationality              : Canada
+Date of Birth            : 11/11/2004
+Joining Fees ($)         : 903.0
+Money Spent on Cruise($) : 963.0
+Total Spent on Cruise($) : 1866.0
+
+Passenger Number         : 4551230
+Passenger Name           : Vale McCaskell
+Home Address             : 917 Anzinger Road
+Nationality              : Pakistan
+Date of Birth            : 03/08/2007
+Joining Fees ($)         : 984.0
+Money Spent on Cruise($) : 964.0
+Total Spent on Cruise($) : 1948.0
+
+Passenger Number         : 3634827
+Passenger Name           : Aigneis Brennans
+Home Address             : 9924 Hazelcrest Way
+Nationality              : Kenya
+Date of Birth            : 17/01/1976
+Joining Fees ($)         : 991.0
+Money Spent on Cruise($) : 965.0
+Total Spent on Cruise($) : 1956.0
+
+Passenger Number         : 2207445
+Passenger Name           : Levi Allsworth
+Home Address             : 4 Ruskin Way
+Nationality              : China
+Date of Birth            : 12/09/1985
+Joining Fees ($)         : 985.0
+Money Spent on Cruise($) : 965.0
+Total Spent on Cruise($) : 1950.0
+
+Passenger Number         : 3041079
+Passenger Name           : Vida de Verson
+Home Address             : 804 Corscot Place
+Nationality              : Guinea
+Date of Birth            : 09/09/1983
+Joining Fees ($)         : 887.0
+Money Spent on Cruise($) : 965.0
+Total Spent on Cruise($) : 1852.0
+
+Passenger Number         : 7435188
+Passenger Name           : Ame Tabbernor
+Home Address             : 11876 Michigan Court
+Nationality              : Syria
+Date of Birth            : 15/05/1961
+Joining Fees ($)         : 854.0
+Money Spent on Cruise($) : 966.0
+Total Spent on Cruise($) : 1820.0
+
+Passenger Number         : 4408033
+Passenger Name           : Luce Chandler
+Home Address             : 195 Bobwhite Hill
+Nationality              : China
+Date of Birth            : 28/07/1977
+Joining Fees ($)         : 829.0
+Money Spent on Cruise($) : 966.0
+Total Spent on Cruise($) : 1795.0
+
+Passenger Number         : 7340374
+Passenger Name           : Gaynor Gallihaulk
+Home Address             : 00 Schmedeman Point
+Nationality              : Sweden
+Date of Birth            : 15/11/1978
+Joining Fees ($)         : 849.0
+Money Spent on Cruise($) : 966.0
+Total Spent on Cruise($) : 1815.0
+
+Passenger Number         : 9294441
+Passenger Name           : Seamus Clampett
+Home Address             : 08 Cambridge Alley
+Nationality              : Montenegro
+Date of Birth            : 01/12/1964
+Joining Fees ($)         : 860.0
+Money Spent on Cruise($) : 968.0
+Total Spent on Cruise($) : 1828.0
+
+Passenger Number         : 7533556
+Passenger Name           : Lance Brotheridge
+Home Address             : 33 Carpenter Plaza
+Nationality              : Paraguay
+Date of Birth            : 22/11/1992
+Joining Fees ($)         : 880.0
+Money Spent on Cruise($) : 969.0
+Total Spent on Cruise($) : 1849.0
+
+Passenger Number         : 5260827
+Passenger Name           : Janot Sainsbury
+Home Address             : 56 Laurel Alley
+Nationality              : Myanmar
+Date of Birth            : 13/04/1979
+Joining Fees ($)         : 950.0
+Money Spent on Cruise($) : 969.0
+Total Spent on Cruise($) : 1919.0
+
+Passenger Number         : 9816725
+Passenger Name           : Elsy Kamiyama
+Home Address             : 64 Monument Way
+Nationality              : Indonesia
+Date of Birth            : 22/08/1982
+Joining Fees ($)         : 845.0
+Money Spent on Cruise($) : 969.0
+Total Spent on Cruise($) : 1814.0
+
+Passenger Number         : 2038866
+Passenger Name           : Ring Goodship
+Home Address             : 99 Springview Place
+Nationality              : Norway
+Date of Birth            : 13/10/1965
+Joining Fees ($)         : 822.0
+Money Spent on Cruise($) : 970.0
+Total Spent on Cruise($) : 1792.0
+
+Passenger Number         : 7640324
+Passenger Name           : Farly Dunford
+Home Address             : 69 Dennis Park
+Nationality              : United States
+Date of Birth            : 19/01/1986
+Joining Fees ($)         : 988.0
+Money Spent on Cruise($) : 972.0
+Total Spent on Cruise($) : 1960.0
+
+Passenger Number         : 1821437
+Passenger Name           : Shandie McCunn
+Home Address             : 40 Haas Court
+Nationality              : Ethiopia
+Date of Birth            : 23/07/1971
+Joining Fees ($)         : 841.0
+Money Spent on Cruise($) : 972.0
+Total Spent on Cruise($) : 1813.0
+
+Passenger Number         : 1085504
+Passenger Name           : Garey Gard
+Home Address             : 3302 Park Meadow Parkway
+Nationality              : Armenia
+Date of Birth            : 14/09/1995
+Joining Fees ($)         : 808.0
+Money Spent on Cruise($) : 972.0
+Total Spent on Cruise($) : 1780.0
+
+Passenger Number         : 4955647
+Passenger Name           : Ted Quinet
+Home Address             : 1 Boyd Way
+Nationality              : Indonesia
+Date of Birth            : 20/06/2006
+Joining Fees ($)         : 951.0
+Money Spent on Cruise($) : 972.0
+Total Spent on Cruise($) : 1923.0
+
+Passenger Number         : 8457940
+Passenger Name           : Dorey Dalbey
+Home Address             : 428 Fairfield Circle
+Nationality              : China
+Date of Birth            : 27/06/1971
+Joining Fees ($)         : 938.0
+Money Spent on Cruise($) : 972.0
+Total Spent on Cruise($) : 1910.0
+
+Passenger Number         : 7405190
+Passenger Name           : Dahlia Maud
+Home Address             : 21755 Sloan Avenue
+Nationality              : Kenya
+Date of Birth            : 26/03/1992
+Joining Fees ($)         : 923.0
+Money Spent on Cruise($) : 975.0
+Total Spent on Cruise($) : 1898.0
+
+Passenger Number         : 6801431
+Passenger Name           : Weylin Hutson
+Home Address             : 33 Barby Street
+Nationality              : Sweden
+Date of Birth            : 11/08/1992
+Joining Fees ($)         : 870.0
+Money Spent on Cruise($) : 975.0
+Total Spent on Cruise($) : 1845.0
+
+Passenger Number         : 7904990
+Passenger Name           : Alard Cowe
+Home Address             : 57592 Randy Circle
+Nationality              : Colombia
+Date of Birth            : 16/06/1960
+Joining Fees ($)         : 866.0
+Money Spent on Cruise($) : 975.0
+Total Spent on Cruise($) : 1841.0
+
+Passenger Number         : 5821930
+Passenger Name           : Ahmed Harlowe
+Home Address             : 6 Roxbury Junction
+Nationality              : Dominican Republic
+Date of Birth            : 30/10/1991
+Joining Fees ($)         : 843.0
+Money Spent on Cruise($) : 977.0
+Total Spent on Cruise($) : 1820.0
+
+Passenger Number         : 6732432
+Passenger Name           : Leopold Renshell
+Home Address             : 7 Sachtjen Circle
+Nationality              : Portugal
+Date of Birth            : 17/10/1997
+Joining Fees ($)         : 914.0
+Money Spent on Cruise($) : 978.0
+Total Spent on Cruise($) : 1892.0
+
+Passenger Number         : 3862223
+Passenger Name           : Leupold Bickerstasse
+Home Address             : 0551 Lindbergh Street
+Nationality              : Ireland
+Date of Birth            : 27/01/1980
+Joining Fees ($)         : 832.0
+Money Spent on Cruise($) : 981.0
+Total Spent on Cruise($) : 1813.0
+
+Passenger Number         : 9343981
+Passenger Name           : Tynan Bailie
+Home Address             : 52645 Golf View Plaza
+Nationality              : Venezuela
+Date of Birth            : 08/09/1970
+Joining Fees ($)         : 865.0
+Money Spent on Cruise($) : 983.0
+Total Spent on Cruise($) : 1848.0
+
+Passenger Number         : 2030072
+Passenger Name           : Mignon Oddey
+Home Address             : 6 Schmedeman Drive
+Nationality              : Poland
+Date of Birth            : 31/05/1969
+Joining Fees ($)         : 893.0
+Money Spent on Cruise($) : 983.0
+Total Spent on Cruise($) : 1876.0
+
+Passenger Number         : 9945389
+Passenger Name           : Lia Slowgrove
+Home Address             : 3428 Golden Leaf Street
+Nationality              : China
+Date of Birth            : 14/11/1990
+Joining Fees ($)         : 886.0
+Money Spent on Cruise($) : 985.0
+Total Spent on Cruise($) : 1871.0
+
+Passenger Number         : 5025884
+Passenger Name           : Jeralee Grayland
+Home Address             : 46232 Superior Terrace
+Nationality              : Philippines
+Date of Birth            : 18/05/1986
+Joining Fees ($)         : 825.0
+Money Spent on Cruise($) : 987.0
+Total Spent on Cruise($) : 1812.0
+
+Passenger Number         : 6925241
+Passenger Name           : Vicki Livezley
+Home Address             : 4 Comanche Parkway
+Nationality              : China
+Date of Birth            : 27/03/1986
+Joining Fees ($)         : 935.0
+Money Spent on Cruise($) : 987.0
+Total Spent on Cruise($) : 1922.0
+
+Passenger Number         : 9844744
+Passenger Name           : Bibi Oak
+Home Address             : 8891 Raven Place
+Nationality              : Poland
+Date of Birth            : 28/09/1989
+Joining Fees ($)         : 999.0
+Money Spent on Cruise($) : 988.0
+Total Spent on Cruise($) : 1987.0
+
+Passenger Number         : 8603884
+Passenger Name           : Gav Symcoxe
+Home Address             : 419 Garrison Terrace
+Nationality              : Peru
+Date of Birth            : 07/03/1972
+Joining Fees ($)         : 987.0
+Money Spent on Cruise($) : 989.0
+Total Spent on Cruise($) : 1976.0
+
+Passenger Number         : 6660563
+Passenger Name           : Ari Lamden
+Home Address             : 2 Dapin Lane
+Nationality              : Ireland
+Date of Birth            : 26/12/1991
+Joining Fees ($)         : 970.0
+Money Spent on Cruise($) : 989.0
+Total Spent on Cruise($) : 1959.0
+
+Passenger Number         : 7593117
+Passenger Name           : Constantia Glassborow
+Home Address             : 2 Banding Point
+Nationality              : Philippines
+Date of Birth            : 28/09/1971
+Joining Fees ($)         : 941.0
+Money Spent on Cruise($) : 989.0
+Total Spent on Cruise($) : 1930.0
+
+Passenger Number         : 6598566
+Passenger Name           : Linell Leall
+Home Address             : 61718 Annamark Place
+Nationality              : New Zealand
+Date of Birth            : 05/07/1970
+Joining Fees ($)         : 857.0
+Money Spent on Cruise($) : 990.0
+Total Spent on Cruise($) : 1847.0
+
+Passenger Number         : 2500208
+Passenger Name           : Rosalinde Doel
+Home Address             : 72886 Autumn Leaf Avenue
+Nationality              : Vietnam
+Date of Birth            : 06/01/1987
+Joining Fees ($)         : 840.0
+Money Spent on Cruise($) : 991.0
+Total Spent on Cruise($) : 1831.0
+
+Passenger Number         : 3601016
+Passenger Name           : Devi Arunowicz
+Home Address             : 981 Caliangt Crossing
+Nationality              : Russia
+Date of Birth            : 09/11/1986
+Joining Fees ($)         : 887.0
+Money Spent on Cruise($) : 991.0
+Total Spent on Cruise($) : 1878.0
+
+Passenger Number         : 6432857
+Passenger Name           : Pia Gavaghan
+Home Address             : 91 Dovetail Place
+Nationality              : South Africa
+Date of Birth            : 12/01/1970
+Joining Fees ($)         : 801.0
+Money Spent on Cruise($) : 992.0
+Total Spent on Cruise($) : 1793.0
+
+Passenger Number         : 7377847
+Passenger Name           : Ricardo Mandrier
+Home Address             : 1500 Maple Court
+Nationality              : Norway
+Date of Birth            : 30/12/2008
+Joining Fees ($)         : 880.0
+Money Spent on Cruise($) : 992.0
+Total Spent on Cruise($) : 1872.0
+
+Passenger Number         : 4378812
+Passenger Name           : Glori Doyland
+Home Address             : 7816 Almo Trail
+Nationality              : Afghanistan
+Date of Birth            : 24/09/1977
+Joining Fees ($)         : 873.0
+Money Spent on Cruise($) : 993.0
+Total Spent on Cruise($) : 1866.0
+
+Passenger Number         : 6402848
+Passenger Name           : Cherin Tewnion
+Home Address             : 3 Lunder Crossing
+Nationality              : Pakistan
+Date of Birth            : 30/06/2010
+Joining Fees ($)         : 857.0
+Money Spent on Cruise($) : 993.0
+Total Spent on Cruise($) : 1850.0
+
+Passenger Number         : 8943560
+Passenger Name           : Averill Pogson
+Home Address             : 0538 Fulton Plaza
+Nationality              : China
+Date of Birth            : 27/07/2002
+Joining Fees ($)         : 933.0
+Money Spent on Cruise($) : 994.0
+Total Spent on Cruise($) : 1927.0
+
+Passenger Number         : 7899178
+Passenger Name           : Wayland d'Escoffier
+Home Address             : 534 Maywood Alley
+Nationality              : Indonesia
+Date of Birth            : 13/08/1993
+Joining Fees ($)         : 854.0
+Money Spent on Cruise($) : 994.0
+Total Spent on Cruise($) : 1848.0
+
+Passenger Number         : 2386577
+Passenger Name           : Haydon Rowen
+Home Address             : 55042 La Follette Lane
+Nationality              : Mexico
+Date of Birth            : 23/05/1974
+Joining Fees ($)         : 995.0
+Money Spent on Cruise($) : 995.0
+Total Spent on Cruise($) : 1990.0
+
+Passenger Number         : 7999297
+Passenger Name           : Gothart Poletto
+Home Address             : 25946 Barnett Place
+Nationality              : Sweden
+Date of Birth            : 02/02/1994
+Joining Fees ($)         : 826.0
+Money Spent on Cruise($) : 996.0
+Total Spent on Cruise($) : 1822.0
+
+Passenger Number         : 7085864
+Passenger Name           : Bat Marre
+Home Address             : 52848 Cardinal Trail
+Nationality              : Indonesia
+Date of Birth            : 27/03/1962
+Joining Fees ($)         : 951.0
+Money Spent on Cruise($) : 999.0
+Total Spent on Cruise($) : 1950.0
+
+Passenger Number         : 9229194
+Passenger Name           : Siusan Lettington
+Home Address             : 89521 Carioca Terrace
+Nationality              : Portugal
+Date of Birth            : 08/09/1981
+Joining Fees ($)         : 906.0
+Money Spent on Cruise($) : 999.0
+Total Spent on Cruise($) : 1905.0
+

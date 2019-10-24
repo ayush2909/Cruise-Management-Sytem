@@ -1,0 +1,525 @@
+Sailor ID        : 17461
+Sailor Name      : Laurie
+Date of birth    : 26-01-1972
+Sailor's salary  : 50000.0
+Nationality      : Indonesia
+Supervisor       : NO
+
+Sailor ID        : 36597
+Sailor Name      : Paolina
+Date of birth    : 29-07-1966
+Sailor's salary  : 50000.0
+Nationality      : Morocco
+Supervisor       : NO
+
+Sailor ID        : 66928
+Sailor Name      : Wain
+Date of birth    : 07-08-1974
+Sailor's salary  : 50000.0
+Nationality      : Sweden
+Supervisor       : NO
+
+Sailor ID        : 96573
+Sailor Name      : Ami
+Date of birth    : 17-10-1962
+Sailor's salary  : 60000.0
+Nationality      : Macedonia
+Supervisor       : YES
+
+Sailor ID        : 79499
+Sailor Name      : Dene
+Date of birth    : 10-06-1988
+Sailor's salary  : 50000.0
+Nationality      : Philippines
+Supervisor       : NO
+
+Sailor ID        : 59901
+Sailor Name      : Lynsey
+Date of birth    : 07-08-1974
+Sailor's salary  : 60000.0
+Nationality      : Czech Republic
+Supervisor       : YES
+
+Sailor ID        : 23437
+Sailor Name      : Averil
+Date of birth    : 04-08-1968
+Sailor's salary  : 50000.0
+Nationality      : Peru
+Supervisor       : NO
+
+Sailor ID        : 32227
+Sailor Name      : Athena
+Date of birth    : 24-09-1963
+Sailor's salary  : 50000.0
+Nationality      : Indonesia
+Supervisor       : NO
+
+Sailor ID        : 60927
+Sailor Name      : Caryl
+Date of birth    : 23-02-1962
+Sailor's salary  : 50000.0
+Nationality      : Indonesia
+Supervisor       : NO
+
+Sailor ID        : 88515
+Sailor Name      : Vaclav
+Date of birth    : 02-03-1962
+Sailor's salary  : 60000.0
+Nationality      : Nepal
+Supervisor       : YES
+
+Sailor ID        : 83622
+Sailor Name      : Andrea
+Date of birth    : 05-08-1962
+Sailor's salary  : 60000.0
+Nationality      : Indonesia
+Supervisor       : YES
+
+Sailor ID        : 59909
+Sailor Name      : Charis
+Date of birth    : 30-04-1982
+Sailor's salary  : 50000.0
+Nationality      : Indonesia
+Supervisor       : NO
+
+Sailor ID        : 29461
+Sailor Name      : Rusty
+Date of birth    : 26-07-1962
+Sailor's salary  : 50000.0
+Nationality      : Russia
+Supervisor       : NO
+
+Sailor ID        : 55898
+Sailor Name      : Darnall
+Date of birth    : 15-10-1964
+Sailor's salary  : 50000.0
+Nationality      : South Africa
+Supervisor       : NO
+
+Sailor ID        : 52104
+Sailor Name      : Kimberlyn
+Date of birth    : 19-10-1988
+Sailor's salary  : 60000.0
+Nationality      : Sweden
+Supervisor       : YES
+
+Sailor ID        : 55332
+Sailor Name      : Genia
+Date of birth    : 16-07-1962
+Sailor's salary  : 60000.0
+Nationality      : Micronesia
+Supervisor       : YES
+
+Sailor ID        : 60513
+Sailor Name      : Bertie
+Date of birth    : 02-03-1961
+Sailor's salary  : 60000.0
+Nationality      : United States
+Supervisor       : YES
+
+Sailor ID        : 75145
+Sailor Name      : Teressa
+Date of birth    : 25-10-1980
+Sailor's salary  : 50000.0
+Nationality      : United States
+Supervisor       : NO
+
+Sailor ID        : 96508
+Sailor Name      : Stella
+Date of birth    : 15-04-1974
+Sailor's salary  : 60000.0
+Nationality      : Thailand
+Supervisor       : YES
+
+Sailor ID        : 45226
+Sailor Name      : Fritz
+Date of birth    : 03-02-1981
+Sailor's salary  : 50000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 90577
+Sailor Name      : Asher
+Date of birth    : 21-03-1990
+Sailor's salary  : 60000.0
+Nationality      : China
+Supervisor       : YES
+
+Sailor ID        : 87982
+Sailor Name      : Anjanette
+Date of birth    : 10-03-1966
+Sailor's salary  : 60000.0
+Nationality      : Vietnam
+Supervisor       : YES
+
+Sailor ID        : 21872
+Sailor Name      : Stormi
+Date of birth    : 20-08-1970
+Sailor's salary  : 50000.0
+Nationality      : Afghanistan
+Supervisor       : NO
+
+Sailor ID        : 47384
+Sailor Name      : Vergil
+Date of birth    : 16-06-1961
+Sailor's salary  : 50000.0
+Nationality      : South Africa
+Supervisor       : NO
+
+Sailor ID        : 36359
+Sailor Name      : Ezekiel
+Date of birth    : 08-09-1989
+Sailor's salary  : 60000.0
+Nationality      : Indonesia
+Supervisor       : YES
+
+Sailor ID        : 30397
+Sailor Name      : Delbert
+Date of birth    : 05-02-1973
+Sailor's salary  : 50000.0
+Nationality      : Croatia
+Supervisor       : NO
+
+Sailor ID        : 83257
+Sailor Name      : Melisa
+Date of birth    : 06-05-1967
+Sailor's salary  : 60000.0
+Nationality      : Sweden
+Supervisor       : YES
+
+Sailor ID        : 70464
+Sailor Name      : Ethe
+Date of birth    : 02-11-1965
+Sailor's salary  : 60000.0
+Nationality      : United States
+Supervisor       : YES
+
+Sailor ID        : 83293
+Sailor Name      : Allx
+Date of birth    : 03-04-1974
+Sailor's salary  : 60000.0
+Nationality      : Switzerland
+Supervisor       : YES
+
+Sailor ID        : 29572
+Sailor Name      : Lemmie
+Date of birth    : 17-07-1969
+Sailor's salary  : 50000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 24963
+Sailor Name      : Mathilda
+Date of birth    : 31-03-1964
+Sailor's salary  : 50000.0
+Nationality      : Philippines
+Supervisor       : NO
+
+Sailor ID        : 31637
+Sailor Name      : Bess
+Date of birth    : 17-11-1965
+Sailor's salary  : 50000.0
+Nationality      : Netherlands
+Supervisor       : NO
+
+Sailor ID        : 22228
+Sailor Name      : Katine
+Date of birth    : 05-02-1990
+Sailor's salary  : 50000.0
+Nationality      : Germany
+Supervisor       : NO
+
+Sailor ID        : 80708
+Sailor Name      : Adria
+Date of birth    : 15-06-1971
+Sailor's salary  : 60000.0
+Nationality      : Sweden
+Supervisor       : YES
+
+Sailor ID        : 53144
+Sailor Name      : Bernadene
+Date of birth    : 16-09-1973
+Sailor's salary  : 60000.0
+Nationality      : Jamaica
+Supervisor       : YES
+
+Sailor ID        : 45852
+Sailor Name      : Alidia
+Date of birth    : 02-09-1985
+Sailor's salary  : 50000.0
+Nationality      : Russia
+Supervisor       : NO
+
+Sailor ID        : 70563
+Sailor Name      : Marsiella
+Date of birth    : 25-12-1982
+Sailor's salary  : 60000.0
+Nationality      : Poland
+Supervisor       : YES
+
+Sailor ID        : 44048
+Sailor Name      : Shauna
+Date of birth    : 09-05-1983
+Sailor's salary  : 50000.0
+Nationality      : Philippines
+Supervisor       : NO
+
+Sailor ID        : 36861
+Sailor Name      : Chiquita
+Date of birth    : 26-01-1990
+Sailor's salary  : 60000.0
+Nationality      : Yemen
+Supervisor       : YES
+
+Sailor ID        : 84018
+Sailor Name      : Marsiella
+Date of birth    : 09-09-1966
+Sailor's salary  : 60000.0
+Nationality      : Honduras
+Supervisor       : YES
+
+Sailor ID        : 41922
+Sailor Name      : Cate
+Date of birth    : 04-03-1970
+Sailor's salary  : 60000.0
+Nationality      : China
+Supervisor       : YES
+
+Sailor ID        : 96516
+Sailor Name      : Wilmar
+Date of birth    : 28-04-1962
+Sailor's salary  : 50000.0
+Nationality      : Argentina
+Supervisor       : NO
+
+Sailor ID        : 28479
+Sailor Name      : Lucina
+Date of birth    : 05-03-1985
+Sailor's salary  : 50000.0
+Nationality      : Israel
+Supervisor       : NO
+
+Sailor ID        : 84495
+Sailor Name      : Skyler
+Date of birth    : 28-02-1961
+Sailor's salary  : 50000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 80515
+Sailor Name      : Irv
+Date of birth    : 17-03-1961
+Sailor's salary  : 50000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 86443
+Sailor Name      : Mauricio
+Date of birth    : 08-05-1967
+Sailor's salary  : 50000.0
+Nationality      : Comoros
+Supervisor       : NO
+
+Sailor ID        : 20138
+Sailor Name      : Zeke
+Date of birth    : 23-12-1969
+Sailor's salary  : 60000.0
+Nationality      : United States
+Supervisor       : YES
+
+Sailor ID        : 55537
+Sailor Name      : Kellia
+Date of birth    : 31-10-1967
+Sailor's salary  : 60000.0
+Nationality      : Sweden
+Supervisor       : YES
+
+Sailor ID        : 19402
+Sailor Name      : Gery
+Date of birth    : 20-01-1990
+Sailor's salary  : 50000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 35877
+Sailor Name      : Ewell
+Date of birth    : 06-03-1967
+Sailor's salary  : 60000.0
+Nationality      : Portugal
+Supervisor       : YES
+
+Sailor ID        : 33890
+Sailor Name      : Ag
+Date of birth    : 06-11-1962
+Sailor's salary  : 60000.0
+Nationality      : Sudan
+Supervisor       : YES
+
+Sailor ID        : 16949
+Sailor Name      : Talya
+Date of birth    : 03-01-1987
+Sailor's salary  : 60000.0
+Nationality      : Cambodia
+Supervisor       : YES
+
+Sailor ID        : 65419
+Sailor Name      : Cullie
+Date of birth    : 25-04-1968
+Sailor's salary  : 50000.0
+Nationality      : Indonesia
+Supervisor       : NO
+
+Sailor ID        : 53139
+Sailor Name      : Mala
+Date of birth    : 13-10-1985
+Sailor's salary  : 50000.0
+Nationality      : Turkmenistan
+Supervisor       : NO
+
+Sailor ID        : 87282
+Sailor Name      : Denys
+Date of birth    : 01-11-1971
+Sailor's salary  : 50000.0
+Nationality      : Japan
+Supervisor       : NO
+
+Sailor ID        : 73433
+Sailor Name      : Gelya
+Date of birth    : 11-10-1989
+Sailor's salary  : 50000.0
+Nationality      : Greece
+Supervisor       : NO
+
+Sailor ID        : 52502
+Sailor Name      : Quintilla
+Date of birth    : 08-02-1960
+Sailor's salary  : 96000.0
+Nationality      : Indonesia
+Supervisor       : YES
+
+Sailor ID        : 20795
+Sailor Name      : Joe
+Date of birth    : 04-09-1964
+Sailor's salary  : 80000.0
+Nationality      : Mauritius
+Supervisor       : NO
+
+Sailor ID        : 63601
+Sailor Name      : Leigh
+Date of birth    : 15-03-1985
+Sailor's salary  : 80000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 44546
+Sailor Name      : Arnoldo
+Date of birth    : 17-03-1966
+Sailor's salary  : 96000.0
+Nationality      : South Korea
+Supervisor       : YES
+
+Sailor ID        : 95118
+Sailor Name      : Claiborn
+Date of birth    : 19-06-1961
+Sailor's salary  : 80000.0
+Nationality      : Japan
+Supervisor       : NO
+
+Sailor ID        : 85204
+Sailor Name      : Salli
+Date of birth    : 18-08-1962
+Sailor's salary  : 96000.0
+Nationality      : Russia
+Supervisor       : YES
+
+Sailor ID        : 72657
+Sailor Name      : Jackie
+Date of birth    : 11-02-1978
+Sailor's salary  : 96000.0
+Nationality      : Sweden
+Supervisor       : YES
+
+Sailor ID        : 80478
+Sailor Name      : Donalt
+Date of birth    : 11-09-1985
+Sailor's salary  : 80000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 38248
+Sailor Name      : Russell
+Date of birth    : 25-11-1979
+Sailor's salary  : 80000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 11614
+Sailor Name      : Abe
+Date of birth    : 22-12-1982
+Sailor's salary  : 80000.0
+Nationality      : Philippines
+Supervisor       : NO
+
+Sailor ID        : 29604
+Sailor Name      : Phylis
+Date of birth    : 09-12-1980
+Sailor's salary  : 80000.0
+Nationality      : Russia
+Supervisor       : NO
+
+Sailor ID        : 37554
+Sailor Name      : Jessie
+Date of birth    : 30-07-1988
+Sailor's salary  : 80000.0
+Nationality      : China
+Supervisor       : NO
+
+Sailor ID        : 29365
+Sailor Name      : Ellswerth
+Date of birth    : 30-11-1989
+Sailor's salary  : 80000.0
+Nationality      : Colombia
+Supervisor       : NO
+
+Sailor ID        : 13926
+Sailor Name      : Gerty
+Date of birth    : 30-09-1989
+Sailor's salary  : 120000.0
+Nationality      : Sweden
+Supervisor       : NO
+
+Sailor ID        : 59835
+Sailor Name      : Jaquenetta
+Date of birth    : 10-09-1974
+Sailor's salary  : 144000.0
+Nationality      : China
+Supervisor       : YES
+
+Sailor ID        : 67588
+Sailor Name      : Del
+Date of birth    : 07-08-1988
+Sailor's salary  : 144000.0
+Nationality      : Indonesia
+Supervisor       : YES
+
+Sailor ID        : 55444
+Sailor Name      : Kristien
+Date of birth    : 15-12-1978
+Sailor's salary  : 120000.0
+Nationality      : Bosnia and Herzegovina
+Supervisor       : NO
+
+Sailor ID        : 25023
+Sailor Name      : Silvio
+Date of birth    : 25-11-1967
+Sailor's salary  : 144000.0
+Nationality      : Iran
+Supervisor       : YES
+
+Sailor ID        : 75536
+Sailor Name      : Vyky
+Date of birth    : 31-08-1989
+Sailor's salary  : 100000.0
+Nationality      : Indonesia
+Supervisor       : NO
+

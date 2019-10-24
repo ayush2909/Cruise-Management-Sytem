@@ -1,0 +1,16 @@
+Cruise Number   : 40663
+Ship Involved   : Annual Rabbitsfoot Grass
+Sailing Date    : 16-12-2019
+Return Date     : 22-01-2020
+Departure Port  : Szeged
+Port of Calls   : Minyue
+                  Degeberga
+                  Lusacan
+                  Gojō
+                  Potrerillos Arriba
+                  Chengdong
+                  Santarém
+                  Yolöten
+                  Gyōda
+                  Zahedan
+                  

@@ -1,0 +1,50 @@
+Port Name         : Minyue
+Port Country      : China
+Port Population   : 33821
+Passport Required : Yes
+
+Port Name         : Degeberga
+Port Country      : Sweden
+Port Population   : 94709
+Passport Required : No
+
+Port Name         : Lusacan
+Port Country      : Philippines
+Port Population   : 16767
+Passport Required : Yes
+
+Port Name         : Gojō
+Port Country      : Japan
+Port Population   : 77084
+Passport Required : No
+
+Port Name         : Potrerillos Arriba
+Port Country      : Panama
+Port Population   : 29393
+Passport Required : Yes
+
+Port Name         : Chengdong
+Port Country      : China
+Port Population   : 89918
+Passport Required : No
+
+Port Name         : Santarém
+Port Country      : Portugal
+Port Population   : 23860
+Passport Required : Yes
+
+Port Name         : Yolöten
+Port Country      : Turkmenistan
+Port Population   : 94527
+Passport Required : Yes
+
+Port Name         : Gyōda
+Port Country      : Japan
+Port Population   : 75602
+Passport Required : Yes
+
+Port Name         : Zahedan
+Port Country      : Iran
+Port Population   : 86456
+Passport Required : Yes
+
